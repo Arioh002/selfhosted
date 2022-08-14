@@ -1,0 +1,30 @@
+version: "2.1"
+services:
+  calibre:
+    image: lscr.io/linuxserver/calibre:latest
+    container_name: calibre
+    environment:
+      - PUID=0
+      - PGID=0
+      - TZ=Europe/Moscow
+      - PASSWORD=26843719
+      - VIRTUAL_HOST=arioh.ru
+      - VIRTUAL_PORT=8081
+      - VIRTUAL_PROTO=http
+      - CLI_ARGS= #optional
+    volumes:
+      - /data/calibre:/config
+    restart: unless-stopped
+    ports:
+      - "8180:8080"
+      - "8081:8081"
+  nginx-proxy:
+    container_name: proxy
+    image: jwilder/nginx-proxy
+    ports:
+      - "80:80"
+      - "443:443"
+    restart: unless-stopped
+    volumes:
+      - ./nginx-default:/etc/nginx/vhost.d/default
+      - /var/run/docker.sock:/tmp/docker.sock:ro
