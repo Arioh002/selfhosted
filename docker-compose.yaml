@@ -36,6 +36,11 @@ services:
   adguardhome:
     image: adguard/adguardhome
     container_name: adguardhome
+    #network_mode: host
+    ports:
+      - "53:53"
+      - "853:853"
+      #- "90:80"
     expose:
       - "53"
       - "853"
@@ -49,13 +54,13 @@ services:
       - "traefik.enable=true"
 
       - "traefik.http.routers.dns.rule=Host(`dns.arioh.ru`)"
-      - "traefik.http.routers.dns.entrypoints=web"
+      - "traefik.http.routers.dns.entrypoints=dns"
       - "traefik.http.routers.dns.service=adg_dns"
 
       - "traefik.http.services.adg_dns.loadbalancer.server.port=53"
 
       - "traefik.http.routers.sdns.rule=Host(`sdns.arioh.ru`)"
-      - "traefik.http.routers.sdns.entrypoints=web"
+      - "traefik.http.routers.sdns.entrypoints=sdns"
       - "traefik.http.routers.sdns.service=adg_sdns"
 
       - "traefik.http.services.adg_sdns.loadbalancer.server.port=853"
@@ -80,7 +85,11 @@ services:
       - "--providers.docker=true"
       - "--providers.docker.exposedbydefault=false"
       - "--entrypoints.web.address=:80"
+      - "--entrypoints.dns.address=:53"
+      - "--entrypoints.sdns.address=:853"
     ports:
+      #- "53:53"
+      #- "853:853"
       - "80:80"
       - "8080:8080"
     volumes:
