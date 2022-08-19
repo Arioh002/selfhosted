@@ -279,13 +279,17 @@ filters:
     url: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
     name: Annoyances
     id: 1660807765
+  - enabled: true
+    url: https://raw.githubusercontent.com/Arioh002/selfhosted/master/adguard/filters.txt
+    name: Personal
+    id: 1660858905
 whitelist_filters:
   - enabled: true
     url: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/whitelist.txt
     name: AdguardFilters - whitelist
     id: 1660767438
   - enabled: true
-    url: https://raw.githubusercontent.com/Arioh002/selfhosted/main/filters.txt
+    url: https://raw.githubusercontent.com/Arioh002/selfhosted/master/adguard/whitelist.txt
     name: Personal
     id: 1660807766
   - enabled: false
