@@ -1,0 +1,161 @@
+{
+  "FanFicFare log viewer": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAI/AAAApAAABsAAAALXAAACQAAAALgAAAa/AAAC0gAAAAAAAAAAB1AAAAJAAAAAuAAABr8AAALS"
+  },
+  "Plugin Updater plugin:plugin updater dialog": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAADVAAAAcAAABQ4AAAJoAAAA1gAAAIQAAAUNAAACYwAAAAAAAAAAB1AAAADWAAAAhAAABQ0AAAJj"
+  },
+  "Prefs Viewer dialog": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAALNAAABOAAABIAAAAJEAAACzgAAAUwAAAR/AAACPwAAAAAAAAAAB1AAAALOAAABTAAABH8AAAI/"
+  },
+  "action-layout-toolbar": [
+    "Add Books",
+    "Edit Metadata",
+    null,
+    "Convert Books",
+    "FanFicFare",
+    null,
+    "Remove Books",
+    "Choose Library",
+    "Save To Disk",
+    "Connect Share",
+    "Tweak ePub",
+    "Preferences"
+  ],
+  "action-layout-toolbar-device": [
+    "Add Books",
+    "Edit Metadata",
+    null,
+    "Convert Books",
+    "View",
+    "Send To Device",
+    null,
+    null,
+    "Location Manager",
+    null,
+    null,
+    "Fetch News",
+    "Save To Disk",
+    "Store",
+    "Connect Share",
+    null,
+    "Remove Books",
+    null,
+    "Help",
+    "Preferences",
+    "FanFicFare"
+  ],
+  "advanced search dialog current tab": 0,
+  "book_details_splitter_horizontal_state": [
+    true,
+    200
+  ],
+  "book_info_dialog_layout": [
+    {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAZAAAAFAAAAtYAAAEYAAAAGgAAACgAAALVAAABEwAAAAAAAAAAAwQAAAAaAAAAKAAAAtUAAAET"
+    },
+    {
+      "__class__": "bytearray",
+      "__value__": "AAAA/wAAAAEAAAACAAABXgAAAX0B/////wEAAAABAA=="
+    }
+  ],
+  "book_list_pin_splitter_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAABAAAAAEYA/////wEAAAABAA=="
+  },
+  "bulk-mde-casing-algorithm": "title_case",
+  "bulk_metadata_window_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAAhAAAAAAAABywAAAOHAAAAIgAAABQAAAcrAAADggAAAAAAAAAAB1AAAAAiAAAAFAAABysAAAOC"
+  },
+  "bulk_metadata_window_tab": 1,
+  "choose-merge-dialog-geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAAtAAAAAAAAAsIAAAFQAAAALgAAABQAAALBAAABSwAAAAAAAAAAAwQAAAAuAAAAFAAAAsEAAAFL"
+  },
+  "choose-merge-dialog-splitter-state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAABfgAAAQAA/////wEAAAABAA=="
+  },
+  "convert_bulk_dialog_geom": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAAhAAAAFAAABywAAANpAAAAIgAAACgAAAcrAAADZAAAAAAAAAAAB1AAAAAiAAAAKAAABysAAANk"
+  },
+  "cover_browser_splitter_vertical_state": [
+    false,
+    300
+  ],
+  "cover_generation_save_settings_for_future": true,
+  "cover_settings_dialog_geom": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAHIAAAAYgAABYMAAAL9AAAByQAAAHYAAAWCAAAC+AAAAAAAAAAAB1AAAAHJAAAAdgAABYIAAAL4"
+  },
+  "exim-calibre-geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAIWAAAAhgAABTcAAAL2AAACFwAAAJoAAAU2AAAC8QAAAAAAAAAAB1AAAAIXAAAAmgAABTYAAALx"
+  },
+  "fff:add new dialog": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAMIAAABHAAABEUAAAJgAAADCQAAATAAAAREAAACWwAAAAAAAAAAB1AAAAMJAAABMAAABEQAAAJb"
+  },
+  "fff:update list dialog": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAALAAAABDwAABHwAAAJFAAACwQAAASMAAAR7AAACQAAAAAAAAAAAB1AAAALBAAABIwAABHsAAAJA"
+  },
+  "grid view visible": false,
+  "job-detail-view-dialog-geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAJHAAAApAAABQQAAAKwAAACSAAAALgAAAUDAAACqwAAAAAAAAAAB1AAAAJIAAAAuAAABQMAAAKr"
+  },
+  "jobs view column layout3": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAigAAAAFAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAAFAAAAmAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAD6AAAAAAAAAAAAA=="
+  },
+  "jobs_dialog_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAHpAAAAMAAABQMAAALfAAAB6gAAAEQAAAUCAAAC2gAAAAAAAAAAB1AAAAHqAAAARAAABQIAAALa"
+  },
+  "library_usage_stats": {
+    "/config/calibre-library": 98
+  },
+  "plugin config dialog:Действие в пользовательском интерфейсе:FanFicFare": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAJ7AAAAvAAABMAAAAKYAAACfAAAANAAAAS/AAACkwAAAAAAAAAAB1AAAAJ8AAAA0AAABL8AAAKT"
+  },
+  "preferences dialog geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAAFAAAAAAAAAwAAAAFPAAAABgAAABQAAAL/AAABSgAAAAAAAAAAAwQAAAAGAAAAFAAAAv8AAAFK"
+  },
+  "previous_sort_order_BooksView": {
+    "publisher": false,
+    "tags": true,
+    "timestamp": false
+  },
+  "quick_start_guide_added": true,
+  "quickview visible": false,
+  "replace_scene_breaks_history": [
+    "",
+    "<hr />",
+    "∗ ∗ ∗",
+    "• • •",
+    "♦ ♦ ♦",
+    "† †",
+    "‡ ‡ ‡",
+    "∞ ∞ ∞",
+    "¤ ¤ ¤"
+  ],
+  "search bar visible": true,
+  "server3_warning_done": true,
+  "tag_browser_splitter_horizontal_state": [
+    true,
+    200
+  ],
+  "view-log-dialog": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAAZAAAAAAAAAtYAAAIMAAAAGgAAABQAAALVAAACBwAAAAAAAAAAAwQAAAAaAAAAFAAAAtUAAAIH"
+  }
+}

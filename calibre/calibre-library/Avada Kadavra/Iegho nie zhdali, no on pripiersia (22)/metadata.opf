@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">92691fc8-d0c7-4200-a732-1bc45db36380</dc:identifier>
+        <dc:title>Его не ждали, но он приперся</dc:title>
+        <dc:creator opf:file-as="Kadavra, Avada" opf:role="aut">Avada Kadavra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.0.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-12T21:00:00+00:00</dc:date>
+        <dc:description>&lt;div class="urlize-links js-public-beta-description"&gt;Плохие парни никогда не ждут Героев в гости, что не мешает Героям таки приходить. Даже если этих Героев и назовут Злодеями.&lt;/div&gt;</dc:description>
+        <dc:publisher>ficbook.net</dc:publisher>
+        <dc:identifier opf:scheme="URL">https://ficbook.net/readfic/8534650</dc:identifier>
+        <dc:language>rus</dc:language>
+        <dc:subject>фентези</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Avada Kadavra&quot;: &quot;https://ficbook.net/authors/1149804&quot;}"/>
+        <meta name="calibre:series" content="Герой"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2022-07-20T15:12:05.064422+00:00"/>
+        <meta name="calibre:title_sort" content="Его не ждали, но он приперся"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Обложка" href="cover.jpg"/>
+    </guide>
+</package>

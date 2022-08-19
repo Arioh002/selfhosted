@@ -1,0 +1,726 @@
+{
+  "bools_are_tristate": true,
+  "user_categories": {},
+  "saved_searches": {},
+  "grouped_search_terms": {},
+  "tag_browser_hidden_categories": [],
+  "library_view books view state": {
+    "column_alignment": {
+      "pubdate": "center",
+      "size": "center",
+      "timestamp": "center"
+    },
+    "column_positions": {
+      "authors": 2,
+      "languages": 11,
+      "last_modified": 10,
+      "ondevice": 0,
+      "pubdate": 9,
+      "publisher": 8,
+      "rating": 5,
+      "series": 7,
+      "size": 4,
+      "tags": 6,
+      "timestamp": 3,
+      "title": 1
+    },
+    "column_sizes": {
+      "authors": 95,
+      "languages": 0,
+      "last_modified": 0,
+      "pubdate": 110,
+      "publisher": 116,
+      "rating": 69,
+      "series": 148,
+      "size": 121,
+      "tags": 143,
+      "timestamp": 72,
+      "title": 218
+    },
+    "hidden_columns": [
+      "last_modified",
+      "languages"
+    ],
+    "languages_injected": true,
+    "last_modified_injected": true,
+    "sort_history": [
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "authors",
+        true
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "timestamp",
+        false
+      ]
+    ]
+  },
+  "books view split pane state": {
+    "column_positions": {
+      "authors": 2,
+      "languages": 11,
+      "last_modified": 10,
+      "ondevice": 0,
+      "pubdate": 9,
+      "publisher": 8,
+      "rating": 5,
+      "series": 7,
+      "size": 4,
+      "tags": 6,
+      "timestamp": 3,
+      "title": 1
+    },
+    "column_sizes": {
+      "authors": 100,
+      "languages": 100,
+      "last_modified": 100,
+      "pubdate": 100,
+      "publisher": 100,
+      "rating": 100,
+      "series": 100,
+      "size": 100,
+      "tags": 100,
+      "timestamp": 100,
+      "title": 100
+    },
+    "hidden_columns": []
+  },
+  "field_metadata": {
+    "au_map": {
+      "column": null,
+      "datatype": "text",
+      "display": {},
+      "is_category": false,
+      "is_csp": false,
+      "is_custom": false,
+      "is_editable": true,
+      "is_multiple": {
+        "cache_to_list": ",",
+        "list_to_ui": null,
+        "ui_to_list": null
+      },
+      "kind": "field",
+      "label": "au_map",
+      "name": null,
+      "rec_index": 18,
+      "search_terms": [],
+      "table": null
+    },
+    "author_sort": {
+      "column": null,
+      "datatype": "text",
+      "display": {},
+      "is_category": false,
+      "is_csp": false,
+      "is_custom": false,
+      "is_editable": true,
+      "is_multiple": {},
+      "kind": "field",
+      "label": "author_sort",
+      "name": "\u0421\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u043e\u0447\u043d\u043e\u0435 \u0438\u043c\u044f \u0430\u0432\u0442\u043e\u0440\u0430",
+      "rec_index": 12,
+      "search_terms": [
+        "author_sort"
+      ],
+      "table": null
+    },
+    "authors": {
+      "category_sort": "sort",
+      "column": "name",
+      "datatype": "text",
+      "display": {},
+      "is_category": true,
+      "is_csp": false,
+      "is_custom": false,
+      "is_editable": true,
+      "is_multiple": {
+        "cache_to_list": ",",
+        "list_to_ui": " & ",
+        "ui_to_list": "&"
+      },
+      "kind": "field",
+      "label": "authors",
+      "link_column": "author",
+      "name": "\u0410\u0432\u0442\u043e\u0440\u044b",
+      "rec_index": 2,
+      "search_terms": [
+        "authors",
+        "author"
+      ],
+      "table": "authors"
+    },
+    "comments": {
+      "column": null,
+      "datatype": "text",
+      "display": {},
+      "is_category": false,
+      "is_csp": false,
+      "is_custom": false,
+      "is_editable": true,
+      "is_multiple": {},
+      "kind": "field",
+      "label": "comments",
+      "name": "\u041a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0438",
+      "rec_index": 7,
+      "search_terms": [
+        "comments",
+        "comment"
+      ],
+      "table": null
+    },
+    "cover": {
+      "column": null,
+      "datatype": "int",
+      "display": {},
+      "is_category": false,
+      "is_csp": false,
+      "is_custom": false,
+      "is_editable": true,
+      "is_multiple": {},
+      "kind": "field",
+      "label": "cover",
+      "name": "\u041e\u0431\u043b\u043e\u0436\u043a\u0430",
+      "rec_index": 17,
+      "search_terms": [
+        "cover"
+      ],
+      "table": null
+    },
+    "formats": {
+      "column": null,
+      "datatype": "text",
+      "display": {},
+      "is_category": true,
+      "is_csp": false,
+      "is_custom": false,
+      "is_editable": true,
+      "is_multiple": {
+        "cache_to_list": ",",
+        "list_to_ui": ", ",
+        "ui_to_list": ","
+      },
+      "kind": "field",
+      "label": "formats",
+      "name": "\u0424\u043e\u0440\u043c\u0430\u0442\u044b",
+      "rec_index": 13,
+      "search_terms": [
+        "formats",
+        "format"
+      ],
+      "table": null
+    },
+    "id": {
+      "column": null,
+      "datatype": "int",
+      "display": {},
+      "is_category": false,
+      "is_csp": false,
+      "is_custom": false,
+      "is_editable": true,
+      "is_multiple": {},
+      "kind": "field",
+      "label": "id",
+      "name": null,
+      "rec_index": 0,
+      "search_terms": [
+        "id"
+      ],
+      "table": null
+    },
+    "identifiers": {
+      "column": null,
+      "datatype": "text",
+      "display": {},
+      "is_category": true,
+      "is_csp": true,
+      "is_custom": false,
+      "is_editable": true,
+      "is_multiple": {
+        "cache_to_list": ",",
+        "list_to_ui": ", ",
+        "ui_to_list": ","
+      },
+      "kind": "field",
+      "label": "identifiers",
+      "name": "\u0418\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440\u044b",
+      "rec_index": 20,
+      "search_terms": [
+        "identifiers",
+        "identifier",
+        "isbn"
+      ],
+      "table": null
+    },
+    "languages": {
+      "category_sort": "lang_code",
+      "column": "lang_code",
+      "datatype": "text",
+      "display": {},
+      "is_category": true,
+      "is_csp": false,
+      "is_custom": false,
+      "is_editable": true,
+      "is_multiple": {
+        "cache_to_list": ",",
+        "list_to_ui": ", ",
+        "ui_to_list": ","
+      },
+      "kind": "field",
+      "label": "languages",
+      "link_column": "lang_code",
+      "name": "\u042f\u0437\u044b\u043a\u0438",
+      "rec_index": 21,
+      "search_terms": [
+        "languages",
+        "language"
+      ],
+      "table": "languages"
+    },
+    "last_modified": {
+      "column": null,
+      "datatype": "datetime",
+      "display": {
+        "date_format": "dd MMM yyyy"
+      },
+      "is_category": false,
+      "is_csp": false,
+      "is_custom": false,
+      "is_editable": true,
+      "is_multiple": {},
+      "kind": "field",
+      "label": "last_modified",
+      "name": "\u0418\u0437\u043c\u0435\u043d\u0435\u043d\u0430",
+      "rec_index": 19,
+      "search_terms": [
+        "last_modified"
+      ],
+      "table": null
+    },
+    "marked": {
+      "column": null,
+      "datatype": "text",
+      "display": {},
+      "is_category": false,
+      "is_csp": false,
+      "is_custom": false,
+      "is_editable": true,
+      "is_multiple": {},
+      "kind": "field",
+      "label": "marked",
+      "name": null,
+      "rec_index": 23,
+      "search_terms": [
+        "marked"
+      ],
+      "table": null
+    },
+    "news": {
+      "category_sort": "name",
+      "column": "name",
+      "datatype": null,
+      "display": {},
+      "is_category": true,
+      "is_csp": false,
+      "is_custom": false,
+      "is_editable": true,
+      "is_multiple": {},
+      "kind": "category",
+      "label": "news",
+      "name": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438",
+      "search_terms": [],
+      "table": "news"
+    },
+    "ondevice": {
+      "column": null,
+      "datatype": "text",
+      "display": {},
+      "is_category": false,
+      "is_csp": false,
+      "is_custom": false,
+      "is_editable": true,
+      "is_multiple": {},
+      "kind": "field",
+      "label": "ondevice",
+      "name": "\u041d\u0430 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0435",
+      "rec_index": 22,
+      "search_terms": [
+        "ondevice"
+      ],
+      "table": null
+    },
+    "path": {
+      "column": null,
+      "datatype": "text",
+      "display": {},
+      "is_category": false,
+      "is_csp": false,
+      "is_custom": false,
+      "is_editable": true,
+      "is_multiple": {},
+      "kind": "field",
+      "label": "path",
+      "name": "\u041f\u0443\u0442\u044c",
+      "rec_index": 14,
+      "search_terms": [],
+      "table": null
+    },
+    "pubdate": {
+      "column": null,
+      "datatype": "datetime",
+      "display": {
+        "date_format": "MMM yyyy"
+      },
+      "is_category": false,
+      "is_csp": false,
+      "is_custom": false,
+      "is_editable": true,
+      "is_multiple": {},
+      "kind": "field",
+      "label": "pubdate",
+      "name": "\u041e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u0430",
+      "rec_index": 15,
+      "search_terms": [
+        "pubdate"
+      ],
+      "table": null
+    },
+    "publisher": {
+      "category_sort": "name",
+      "column": "name",
+      "datatype": "text",
+      "display": {},
+      "is_category": true,
+      "is_csp": false,
+      "is_custom": false,
+      "is_editable": true,
+      "is_multiple": {},
+      "kind": "field",
+      "label": "publisher",
+      "link_column": "publisher",
+      "name": "\u0418\u0437\u0434\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e",
+      "rec_index": 9,
+      "search_terms": [
+        "publisher"
+      ],
+      "table": "publishers"
+    },
+    "rating": {
+      "category_sort": "rating",
+      "column": "rating",
+      "datatype": "rating",
+      "display": {},
+      "is_category": true,
+      "is_csp": false,
+      "is_custom": false,
+      "is_editable": true,
+      "is_multiple": {},
+      "kind": "field",
+      "label": "rating",
+      "link_column": "rating",
+      "name": "\u041e\u0446\u0435\u043d\u043a\u0430",
+      "rec_index": 5,
+      "search_terms": [
+        "rating"
+      ],
+      "table": "ratings"
+    },
+    "series": {
+      "category_sort": "(title_sort(name))",
+      "column": "name",
+      "datatype": "series",
+      "display": {},
+      "is_category": true,
+      "is_csp": false,
+      "is_custom": false,
+      "is_editable": true,
+      "is_multiple": {},
+      "kind": "field",
+      "label": "series",
+      "link_column": "series",
+      "name": "\u0421\u0435\u0440\u0438\u044f",
+      "rec_index": 8,
+      "search_terms": [
+        "series"
+      ],
+      "table": "series"
+    },
+    "series_index": {
+      "column": null,
+      "datatype": "float",
+      "display": {},
+      "is_category": false,
+      "is_csp": false,
+      "is_custom": false,
+      "is_editable": true,
+      "is_multiple": {},
+      "kind": "field",
+      "label": "series_index",
+      "name": null,
+      "rec_index": 10,
+      "search_terms": [
+        "series_index"
+      ],
+      "table": null
+    },
+    "series_sort": {
+      "column": null,
+      "datatype": "text",
+      "display": {},
+      "is_category": false,
+      "is_csp": false,
+      "is_custom": false,
+      "is_editable": true,
+      "is_multiple": {},
+      "kind": "field",
+      "label": "series_sort",
+      "name": "\u0421\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u043a\u0430 \u043f\u043e \u0441\u0435\u0440\u0438\u044f\u043c",
+      "rec_index": 24,
+      "search_terms": [
+        "series_sort"
+      ],
+      "table": null
+    },
+    "size": {
+      "column": null,
+      "datatype": "float",
+      "display": {},
+      "is_category": false,
+      "is_csp": false,
+      "is_custom": false,
+      "is_editable": true,
+      "is_multiple": {},
+      "kind": "field",
+      "label": "size",
+      "name": "\u0420\u0430\u0437\u043c\u0435\u0440",
+      "rec_index": 4,
+      "search_terms": [
+        "size"
+      ],
+      "table": null
+    },
+    "sort": {
+      "column": null,
+      "datatype": "text",
+      "display": {},
+      "is_category": false,
+      "is_csp": false,
+      "is_custom": false,
+      "is_editable": true,
+      "is_multiple": {},
+      "kind": "field",
+      "label": "sort",
+      "name": "\u0421\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u043a\u0430 \u043f\u043e \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f\u043c",
+      "rec_index": 11,
+      "search_terms": [
+        "title_sort"
+      ],
+      "table": null
+    },
+    "tags": {
+      "category_sort": "name",
+      "column": "name",
+      "datatype": "text",
+      "display": {},
+      "is_category": true,
+      "is_csp": false,
+      "is_custom": false,
+      "is_editable": true,
+      "is_multiple": {
+        "cache_to_list": ",",
+        "list_to_ui": ", ",
+        "ui_to_list": ","
+      },
+      "kind": "field",
+      "label": "tags",
+      "link_column": "tag",
+      "name": "\u0422\u0435\u0433\u0438",
+      "rec_index": 6,
+      "search_terms": [
+        "tags",
+        "tag"
+      ],
+      "table": "tags"
+    },
+    "timestamp": {
+      "column": null,
+      "datatype": "datetime",
+      "display": {
+        "date_format": "dd MMM yyyy"
+      },
+      "is_category": false,
+      "is_csp": false,
+      "is_custom": false,
+      "is_editable": true,
+      "is_multiple": {},
+      "kind": "field",
+      "label": "timestamp",
+      "name": "\u0414\u0430\u0442\u0430",
+      "rec_index": 3,
+      "search_terms": [
+        "date"
+      ],
+      "table": null
+    },
+    "title": {
+      "column": null,
+      "datatype": "text",
+      "display": {},
+      "is_category": false,
+      "is_csp": false,
+      "is_custom": false,
+      "is_editable": true,
+      "is_multiple": {},
+      "kind": "field",
+      "label": "title",
+      "name": "\u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435",
+      "rec_index": 1,
+      "search_terms": [
+        "title"
+      ],
+      "table": null
+    },
+    "uuid": {
+      "column": null,
+      "datatype": "text",
+      "display": {},
+      "is_category": false,
+      "is_csp": false,
+      "is_custom": false,
+      "is_editable": true,
+      "is_multiple": {},
+      "kind": "field",
+      "label": "uuid",
+      "name": null,
+      "rec_index": 16,
+      "search_terms": [
+        "uuid"
+      ],
+      "table": null
+    }
+  },
+  "gui_view_history": [
+    [
+      38,
+      "\u041a\u0430\u043b\u0435\u043a\u0430"
+    ],
+    [
+      40,
+      "\u0412\u043b\u0430\u0434\u044b\u043a\u0430 \u043f\u0443\u0441\u0442\u043e\u0442\u044b"
+    ],
+    [
+      51,
+      "\u041f\u0440\u043e\u0431\u043b\u0435\u043c\u043d\u0430\u044f \u0421\u0443\u043f\u0435\u0440\u0433\u0435\u0440\u043e\u0438\u043a\u0430"
+    ],
+    [
+      27,
+      "\u0412\u0441\u0451 \u0431\u0443\u0434\u0435\u0442 \u043f\u043e-\u043c\u043e\u0435\u043c\u0443!"
+    ],
+    [
+      14,
+      "\u041d\u043e\u0432\u044b\u0439 \u041f\u043e\u0442\u0442\u0435\u0440"
+    ],
+    [
+      9,
+      "\u0424\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u044f java"
+    ]
+  ],
+  "namespaced:FanFicFarePlugin:settings": {
+    "adddialogstaysontop": false,
+    "addtolists": false,
+    "addtolistsonread": false,
+    "addtoreadlists": false,
+    "allow_custcol_from_ini": true,
+    "allow_gc_from_ini": true,
+    "anth_comments_newonly": true,
+    "authorcase": false,
+    "auto_reject_from_email": false,
+    "auto_reject_seriesurlid": false,
+    "autoconvert": false,
+    "autounnew": false,
+    "bgmeta": false,
+    "button_instantpopup": false,
+    "cal_cols_pass_in": false,
+    "calibre_gen_cover": false,
+    "checkforseriesurlid": true,
+    "checkforurlchange": true,
+    "collision": "Update EPUB if New Chapters",
+    "countpagesstats": [],
+    "custom_cols": {},
+    "custom_cols_newonly": {},
+    "deleteotherforms": false,
+    "do_wordcount": "Yes, unless site",
+    "download_from_email_immediately": false,
+    "errorcol": "",
+    "fileform": "epub",
+    "gc_polish_cover": false,
+    "gc_site_settings": {},
+    "gcnewonly": false,
+    "gencalcover": "Yes",
+    "imapfolder": "INBOX",
+    "imapmarkread": true,
+    "imappass": "",
+    "imapserver": "",
+    "imapsessionpass": false,
+    "imaptags": "",
+    "imapuser": "",
+    "includecomments": false,
+    "injectseries": false,
+    "keeptags": false,
+    "last_saved_version": [
+      4,
+      12,
+      4
+    ],
+    "lastcheckedcol": "",
+    "lookforurlinhtml": false,
+    "mark": false,
+    "mark_chapter_error": true,
+    "mark_failed": true,
+    "mark_series_anthologies": false,
+    "mark_success": true,
+    "matchtitleauth": true,
+    "personal.ini": "## This is an example of what your personal configuration might look\r\n## like.  Uncomment options by removing the '#' in front of them.\r\n\r\n[defaults]\r\n## [defaults] section applies to all formats and sites but may be\r\n## overridden at several levels.  Example:\r\n\r\n## [defaults]\r\n## titlepage_entries: category,genre, status\r\n## [www.whofic.com]\r\n## # overrides defaults.\r\n## titlepage_entries: category,genre, status,dateUpdated,rating\r\n## [epub]\r\n## # overrides defaults & site section\r\n## titlepage_entries: category,genre, status,datePublished,dateUpdated,dateCreated\r\n## [www.whofic.com:epub]\r\n## # overrides defaults, site section & format section\r\n## titlepage_entries: category,genre, status,datePublished\r\n## [overrides]\r\n## # overrides all other sections\r\n## titlepage_entries: category\r\n\r\n## Some sites also require the user to confirm they are adult for\r\n## adult content.  Uncomment by removing '#' in front of is_adult.\r\n#is_adult:true\r\n\r\n## Don't like the numbers at the start of chapter titles on some\r\n## sites?  You can use strip_chapter_numbers to strip them off.  Just\r\n## want to make them all look the same?  Strip them off, then add them\r\n## back on with add_chapter_numbers.  Don't like the way it strips\r\n## numbers or adds them back?  See chapter_title_strip_pattern and\r\n## chapter_title_add_pattern.\r\n#strip_chapter_numbers:true\r\n#add_chapter_numbers:true\r\n\r\n## Add this to genre if there's more than one category.\r\n#add_genre_when_multi_category: Crossover\r\n\r\n[epub]\r\n## include images from img tags in the body and summary of stories.\r\n## Images will be converted to jpg for size if possible.  Images work\r\n## in epub format only.  To get mobi or other format with images,\r\n## download as epub and use Calibre to convert.\r\n#include_images:true\r\n\r\n## Quality level to use when converting images to jpg. Range is 0-100,\r\n## reasonable values likely to be in the range 70-95.\r\n#jpg_quality: 95\r\n\r\n## If not set, the summary will have all html stripped for safety.\r\n## Both this and include_images must be true to get images in the\r\n## summary.\r\n#keep_summary_html:true\r\n\r\n## If set, the first image found will be made the cover image.  If\r\n## keep_summary_html is true, any images in summary will be before any\r\n## in chapters.\r\n#make_firstimage_cover:true\r\n\r\n## Resize images down to width, height, preserving aspect ratio.\r\n## Nook size, with margin.\r\n#image_max_size: 580, 725\r\n\r\n## Change image to grayscale, if graphics library allows, to save\r\n## space.\r\n#grayscale_images: false\r\n\r\n\r\n## Most common, I expect will be using this to save username/passwords\r\n## for different sites.  Here are a few examples.  See defaults.ini\r\n## for the full list.\r\n\r\n[www.twilighted.net]\r\n#username:YourPenname\r\n#password:YourPassword\r\n## default is false\r\n#collect_series: true\r\n\r\n[ficwad.com]\r\n#username:YourUsername\r\n#password:YourPassword\r\n\r\n[www.adastrafanfic.com]\r\n## Some sites do not require a login, but do require the user to\r\n## confirm they are adult for adult content.\r\n#is_adult:true\r\n\r\n[www.twcslibrary.net]\r\n#username:YourName\r\n#password:yourpassword\r\n#is_adult:true\r\n## default is false\r\n#collect_series: true\r\n\r\n[www.fimfiction.net]\r\n#is_adult:true\r\n#fail_on_password: false\r\n\r\n[www.tthfanfic.org]\r\n#is_adult:true\r\n## tth is a little unusual--it doesn't require user/pass, but the site\r\n## keeps track of which chapters you've read and won't send another\r\n## update until it thinks you're up to date.  This way, on download,\r\n## it thinks you're up to date.\r\n#username:YourName\r\n#password:yourpassword\r\n\r\n\r\n## This section will override anything in the system defaults or other\r\n## sections here.\r\n[overrides]\r\n## default varies by site.  Set true here to force all sites to\r\n## collect series.\r\n#collect_series: true\r\n",
+    "plugin_gen_cover": true,
+    "read_lists": "",
+    "reject_always": false,
+    "reject_delete_default": true,
+    "rejectreasons": "Sucked\nBoring\nDup from another site",
+    "save_all_errors": true,
+    "savemetacol": "",
+    "send_lists": "",
+    "set_author_url": true,
+    "setanthologyseries": false,
+    "show_est_time": false,
+    "showmarked": false,
+    "smarten_punctuation": false,
+    "std_cols_newonly": {},
+    "suppressauthorsort": false,
+    "suppresstitlesort": false,
+    "titlecase": false,
+    "update_existing_only_from_email": false,
+    "updatecalcover": "Yes, if img",
+    "updatecover": false,
+    "updatedefault": true,
+    "updateepubcover": false,
+    "updatemeta": true,
+    "urlsfromclip": true,
+    "wordcountmissing": false
+  },
+  "namespaced:FanFicFarePlugin:rejects_data": {
+    "last_saved_version": [
+      4,
+      12,
+      4
+    ],
+    "rejecturls_data": []
+  },
+  "check_library_ignore_extensions": "",
+  "check_library_ignore_names": ""
+}

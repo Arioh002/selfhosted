@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">619cec09-ec6e-47ed-abcc-f08c06165f26</dc:identifier>
+        <dc:title>Похоть и Магия</dc:title>
+        <dc:creator opf:file-as="Kadavra, Avada" opf:role="aut">Avada Kadavra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.0.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-08-05T21:00:00+00:00</dc:date>
+        <dc:description>&lt;div class="urlize-links js-public-beta-description"&gt; Очередной мир, словно срисованный со стандартного фэнтези - эльфы, гномы, орки ну и люди. Куда же без людей? Очередной попаданец, обладающий Системой (тм), в этот прекрасный мир. Более того, у попаданца, как и положено, есть Очень Большая Плюшка (тм).&lt;br/&gt;
+ Вот только плюшка-то с подвохом!&lt;br/&gt;
+ Сказка о том, почему нужно бояться всяческих обновлений программного обеспечения...&lt;/div&gt;</dc:description>
+        <dc:publisher>ficbook.net</dc:publisher>
+        <dc:identifier opf:scheme="URL">https://ficbook.net/readfic/7205817</dc:identifier>
+        <dc:language>rus</dc:language>
+        <dc:subject>фанфик</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Avada Kadavra&quot;: &quot;https://ficbook.net/authors/1149804&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-07-20T15:14:01.625063+00:00"/>
+        <meta name="calibre:title_sort" content="Похоть и Магия"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Обложка" href="cover.jpg"/>
+    </guide>
+</package>

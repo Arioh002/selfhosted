@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">71</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d36973ae-7b7e-434d-9d8c-921c02b66010</dc:identifier>
+        <dc:title>Жизнь и становление господина мага</dc:title>
+        <dc:creator opf:file-as="allig_eri" opf:role="aut">allig_eri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-27T21:00:00+00:00</dc:date>
+        <dc:description>&lt;div class="urlize-links js-public-beta-description"&gt;Обсуждения книг в литературном клубе зачастую бурлят низменными страстями, особенно при приёме новых членов, считающих именно вселенную Гарри Поттера той, что изменила мир в 21 веке. Оканчивается обсуждение довольно оригинально: курирующий литературный клуб профессор после животрепещущей дискуссии на тему «Можно ли изменить магический мир и если да, то как?» попадает в 1932 год, в один интересный приют.&lt;/div&gt;</dc:description>
+        <dc:publisher>ficbook.net</dc:publisher>
+        <dc:identifier opf:scheme="URL">https://ficbook.net/readfic/11933611</dc:identifier>
+        <dc:language>rus</dc:language>
+        <dc:subject>фанфик</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;allig_eri&quot;: &quot;https://ficbook.net/authors/1148026&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-08-14T20:43:24.373916+00:00"/>
+        <meta name="calibre:title_sort" content="Жизнь и становление господина мага"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Обложка" href="cover.jpg"/>
+    </guide>
+</package>

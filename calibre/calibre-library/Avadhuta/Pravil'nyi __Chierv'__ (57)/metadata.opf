@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">57</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e5f1e8b-6675-42cd-88ce-bc9b6d5b2ff0</dc:identifier>
+        <dc:title>Правильный «Червь»</dc:title>
+        <dc:creator opf:file-as="Avadhuta" opf:role="aut">Avadhuta</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.0.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-29T21:00:00+00:00</dc:date>
+        <dc:description>&lt;div class="urlize-links js-public-beta-description"&gt;Что делает человека супергероем? Нет, не так. Что делает человека правильным супергероем? Чем отличается нормальный супергерой от всяких соплежуев и дегенератов с суперсилами? Я был отправлен в другой мир, чтобы защитить героиню пророчества. Чтобы помочь ей спасти человечество во множестве миров и измерений. Но знаете, что? Ну её нафиг, эту дуру. Мир я смогу спасти и сам. Герой я или нет?&lt;/div&gt;</dc:description>
+        <dc:publisher>ficbook.net</dc:publisher>
+        <dc:identifier opf:scheme="URL">https://ficbook.net/readfic/10587043</dc:identifier>
+        <dc:language>rus</dc:language>
+        <dc:subject>фанфик</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Avadhuta&quot;: &quot;https://ficbook.net/authors/2185216&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-07-20T15:14:17.731705+00:00"/>
+        <meta name="calibre:title_sort" content="Правильный «Червь»"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Обложка" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">84</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68ec3cd2-d2c1-4d09-b22e-eab8c21a789c</dc:identifier>
+        <dc:title>Логика Бедствия. Том 1. Том 2</dc:title>
+        <dc:creator opf:file-as="Мертвый_Бассейн" opf:role="aut">Мертвый_Бассейн</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>* * *
+1-ЫЙ ТОМ БЕСПЛАТНО! БЕЗВОЗМЕЗДНО! ЛЯ ТОМ, ХАЛЯВ! Не надо бояться, именно поэтому, здесь стоит ценник. Еще раз, для всех новоприбывших: Первый том — ПОЛНОСТЬЮ БЕСПЛАТНО.
+* * *
+Накаркали сволочи. Того, кто придумал систему, сам бы лично повесил на дереве 5 уровня. Потому как все о чем мечталось сбылось — хотели — получите и распишитесь в своей бесполезности. Но это не про меня, потому как я могу то, чего не могут другие. И я нагну ту, кого называют Великой Матерью, и похер мне на инцест. Железное дилдо с моторчиком в руки и вперед на покорение мира. Ну и куча сисек рядом со мной идут бонусом, потому как, имя мне Нарвал, и я перестрою этот мир под себя.</dc:description>
+        <dc:language>rus</dc:language>
+        <dc:subject>фантастика</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Мертвый_Бассейн&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-07-31T13:17:11.602204+00:00"/>
+        <meta name="calibre:title_sort" content="Логика Бедствия. Том 1. Том 2"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Обложка" href="cover.jpg"/>
+    </guide>
+</package>

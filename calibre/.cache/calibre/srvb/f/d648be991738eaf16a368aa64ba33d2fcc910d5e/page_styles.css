@@ -1,0 +1,24 @@
+@charset "UTF-8";
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "Literata";
+    panose-1: 0 0 0 0 0 0 0 0 0 0;
+    src: url("kPngEOTvQOiAtLEZdLxwu8|Zm9udHMvTGl0ZXJhdGEtUmVndWxhci50dGY=|")
+    }
+@font-face {
+    font-family: "Literata";
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    src: url("kPngEOTvQOiAtLEZdLxwu8|Zm9udHMvTGl0ZXJhdGEtUmVndWxhcjEudHRm|")
+    }
+@font-face {
+    font-family: "Literata";
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    src: url("kPngEOTvQOiAtLEZdLxwu8|Zm9udHMvTGl0ZXJhdGEtUmVndWxhcjIudHRm|")
+    }

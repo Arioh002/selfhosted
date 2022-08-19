@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">74</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e155397a-8c37-4061-8d7d-e3c453d234f1</dc:identifier>
+        <dc:title>Апокалипсис сегодня. Возвращение</dc:title>
+        <dc:creator opf:file-as="Злотников, Роман Валерьевич" opf:role="aut">Роман Валерьевич Злотников</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-14T21:00:00+00:00</dc:date>
+        <dc:description>Человечество уничтожено. Остатки его порабощены. Надежды нет. Но в тот момент, когда исчезли её самые последние отблески, один из тех, кто дожил до последней схватки, внезапно переносится назад во времени. В себя молодого. В тот момент, когда он был ещё юным и ни о чём не задумывающимся студентом… Он далеко не самый талантливый. Да и не слишком умный. Разведчик и боец первой линии. Пушечное мясо проигранной войны. Сможет ли он хоть что-то изменить?</dc:description>
+        <dc:language>rus</dc:language>
+        <dc:subject>фантастика</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Роман Валерьевич Злотников&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Апокалипсис сегодня"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2022-07-24T14:45:48.655850+00:00"/>
+        <meta name="calibre:title_sort" content="Апокалипсис сегодня. Возвращение"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Обложка" href="cover.jpg"/>
+    </guide>
+</package>

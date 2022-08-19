@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">388a5934-e7dc-447a-b5fc-3284c209ee2e</dc:identifier>
+        <dc:title>Хранитель Рода Государева 4</dc:title>
+        <dc:creator opf:file-as="Шмаков, Алексей" opf:role="aut">Алексей Шмаков</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>В этом томе вы узнаете, чем закончилась встреча с Кровавым Вороном. Причастны ли Шуйские к делам, творящимся вокруг императорской семьи. О том, что произойдёт на вече. И сможет высший кукловод сохранить свою личность втайне или нет. Противостояние ведунов началось. Чей дар окажется сильнее?</dc:description>
+        <dc:language>rus</dc:language>
+        <dc:subject>фентези</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Алексей Шмаков&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Хранитель Рода Государева"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2022-06-04T22:48:54+00:00"/>
+        <meta name="calibre:title_sort" content="Хранитель Рода Государева 4"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Обложка" href="cover.jpg"/>
+    </guide>
+</package>

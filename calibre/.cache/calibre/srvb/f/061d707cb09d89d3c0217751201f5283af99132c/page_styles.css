@@ -1,0 +1,14 @@
+@charset "UTF-8";
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: literata-import;
+    src: url(https://fonts.googleapis.com/css2?family=Literata:opsz@7..72&display=swap)
+    }
+@font-face {
+    font-family: "Literata";
+    panose-1: 0 0 0 0 0 0 0 0 0 0;
+    src: url("OjTPobCi4miVyvs66gO3M7|Zm9udHMvTGl0ZXJhdGEtUmVndWxhci50dGY=|")
+    }

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">68</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f9d107f9-3320-4495-b5d0-c55fde18e510</dc:identifier>
+        <dc:title>Big Brother</dc:title>
+        <dc:creator opf:file-as="Вассин, Васся" opf:role="aut">Васся Вассин</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.0.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-17T21:00:00+00:00</dc:date>
+        <dc:description>&lt;div class="urlize-links js-public-beta-description"&gt;События описываются от лица Макса, гг вышеназванной игры, которая пока находится в стадии доработки, но уже выглядит очень неплохо. Большая часть текста и диалогов переписывается из игры полностью. (Разработчик игры, редиска такая, забросил проект, оставив нам кучу разочарований.)&lt;/div&gt;</dc:description>
+        <dc:publisher>ficbook.net</dc:publisher>
+        <dc:identifier opf:scheme="URL">https://ficbook.net/readfic/5551635</dc:identifier>
+        <dc:language>rus</dc:language>
+        <dc:subject>фантастика</dc:subject>
+        <dc:subject>pwp</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Васся Вассин&quot;: &quot;https://ficbook.net/authors/1674457&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-07-20T15:16:03.054040+00:00"/>
+        <meta name="calibre:title_sort" content="Big Brother"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Обложка" href="cover.jpg"/>
+    </guide>
+</package>

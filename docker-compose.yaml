@@ -1,0 +1,103 @@
+---
+version: "2.1"
+services:
+  calibre:
+    image: lscr.io/linuxserver/calibre:latest
+    container_name: calibre
+    environment:
+      - PUID=0
+      - PGID=0
+      - TZ=Europe/Moscow
+      - PASSWORD=26843719
+      - VIRTUAL_HOST=arioh.ru
+      - VIRTUAL_PORT=8081
+      - VIRTUAL_PROTO=http
+      - CLI_ARGS= #optional
+    volumes:
+      - /data/calibre:/config
+    restart: unless-stopped
+    expose:
+      - "8080"
+      - "8081"
+    labels:
+      - "traefik.enable=true"
+
+      - "traefik.http.routers.lib.rule=Host(`lib.arioh.ru`)"
+      - "traefik.http.routers.lib.entrypoints=web"
+      - "traefik.http.routers.lib.service=cal_lib"
+
+      - "traefik.http.services.cal_lib.loadbalancer.server.port=8081"
+
+      - "traefik.http.routers.calibre.rule=Host(`calibre.arioh.ru`)"
+      - "traefik.http.routers.calibre.entrypoints=web"
+      - "traefik.http.routers.calibre.service=cal_gui"
+
+      - "traefik.http.services.cal_gui.loadbalancer.server.port=8080"
+  adguardhome:
+    image: adguard/adguardhome
+    container_name: adguardhome
+    ports:
+      - "53:53/tcp"
+      - "53:53/udp"
+      - "853:853/tcp"
+      - "853:853/udp"
+      - "443:443"
+    expose:
+      - "53"
+      - "443"
+      - "853"
+      - "3000"
+      - "80"
+    volumes:
+      - /data/adguard/workdir:/opt/adguardhome/work
+      - /data/adguard/confdir:/opt/adguardhome/conf
+    restart: unless-stopped
+    labels:
+      - "traefik.enable=true"
+
+      - "traefik.http.routers.dns.rule=Host(`dns.arioh.ru`)"
+      - "traefik.http.routers.dns.entrypoints=tcpdns,udpdns"
+      - "traefik.http.routers.dns.service=adg_dns"
+
+      - "traefik.http.services.adg_dns.loadbalancer.server.port=53"
+
+      - "traefik.http.routers.sdns.rule=Host(`sdns.arioh.ru`)"
+      - "traefik.http.routers.sdns.entrypoints=sdns"
+      - "traefik.http.routers.sdns.service=adg_sdns"
+
+      - "traefik.http.services.adg_sdns.loadbalancer.server.port=853"
+
+      - "traefik.http.routers.adg.rule=Host(`adg.arioh.ru`)"
+      - "traefik.http.routers.adg.entrypoints=web"
+      - "traefik.http.routers.adg.service=adg_adm"
+
+      - "traefik.http.services.adg_adm.loadbalancer.server.port=80"
+
+      - "traefik.http.routers.adginit.rule=Host(`initadg.arioh.ru`)"
+      - "traefik.http.routers.adginit.entrypoints=web"
+      - "traefik.http.routers.adginit.service=adg_adm_init"
+
+      - "traefik.http.services.adg_adm_init.loadbalancer.server.port=3000"
+  traefik:
+    container_name: "proxy"
+    image: "traefik:v2.8"
+    restart: unless-stopped
+    command:
+      - "--api.insecure=false"
+      - "--providers.docker=true"
+      - "--providers.docker.exposedbydefault=false"
+      - "--entrypoints.web.address=:80"
+      - "--entrypoints.webs.address=:443"
+      - "--entrypoints.tcpdns.address=:53"
+      - "--entrypoints.udpdns.address=:53/udp"
+      - "--entrypoints.sdns.address=:853"
+    ports:
+      #- "53:53/tcp"
+      #- "53:53/udp"
+      #- "853:853"
+      - "80:80"
+      #- "443:443"
+      - "8080:8080"
+    volumes:
+      - "/var/run/docker.sock:/var/run/docker.sock:ro"  
+

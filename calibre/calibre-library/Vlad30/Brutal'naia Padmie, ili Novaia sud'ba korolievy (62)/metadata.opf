@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">62</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c3c731de-a660-4ba3-8577-5c799d532585</dc:identifier>
+        <dc:title>Брутальная Падме, или Новая судьба королевы</dc:title>
+        <dc:creator opf:file-as="Vlad30" opf:role="aut">Vlad30</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-06T21:00:00+00:00</dc:date>
+        <dc:description>&lt;div class="urlize-links js-public-beta-description"&gt;(Переписанная, умеренно исправленная и немало расширенная новая версия фанфика "Судьба королевы")&lt;br/&gt;
+Приключение одного зрелого попаданца в довольно неприятном, на самом деле, мире одной очень далекой галактики, где своими делами занимаются странные одарённые - джедаи и ситхи.&lt;br/&gt;
+Который переродился местной принцессой Падме. Вынужденный жить в условиях, вопреки своим взглядам и предпочтениям. Пытаясь, по возможности, воплощать принцип: "пусть мир прогнётся под нас".&lt;br/&gt;
+(Важно. Прочтите вступление)&lt;br/&gt;
+&lt;/div&gt;</dc:description>
+        <dc:publisher>ficbook.net</dc:publisher>
+        <dc:identifier opf:scheme="URL">https://ficbook.net/readfic/12213835</dc:identifier>
+        <dc:language>rus</dc:language>
+        <dc:subject>фанфик</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Vlad30&quot;: &quot;https://ficbook.net/authors/983041&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-08-05T22:37:09.900361+00:00"/>
+        <meta name="calibre:title_sort" content="Брутальная Падме, или Новая судьба королевы"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Обложка" href="cover.jpg"/>
+    </guide>
+</package>

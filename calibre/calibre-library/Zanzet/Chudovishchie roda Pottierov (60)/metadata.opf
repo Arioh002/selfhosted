@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">60</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b68c0745-2a69-4b25-a645-2ce0e6ec2bfc</dc:identifier>
+        <dc:title>Чудовище рода Поттеров</dc:title>
+        <dc:creator opf:file-as="Zanzet" opf:role="aut">Zanzet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.0.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-04T21:00:00+00:00</dc:date>
+        <dc:description>&lt;div class="urlize-links js-public-beta-description"&gt;Эта история о попаданце застрявшего в теле не совсем обычного, хоть и слабого лисёнка, задолго до канонных событий. Попав во времена Мерлина, герой очень хочет увидеть знаменитого Мальчика-который-выжил и прилагает все усилия, чтобы хоть как-то краешком вписаться в историю. Однако, он не бессмертный и Судьба не даст сильно изменить историю, а потому принимает странное на первый взгляд решение… стать самым опасным и Легендарным Магическим Животным!&lt;/div&gt;</dc:description>
+        <dc:publisher>ficbook.net</dc:publisher>
+        <dc:identifier opf:scheme="URL">https://ficbook.net/readfic/11479347</dc:identifier>
+        <dc:language>rus</dc:language>
+        <dc:subject>фанфик</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Zanzet&quot;: &quot;https://ficbook.net/authors/6036348&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-07-20T15:15:48.249384+00:00"/>
+        <meta name="calibre:title_sort" content="Чудовище рода Поттеров"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Обложка" href="cover.jpg"/>
+    </guide>
+</package>

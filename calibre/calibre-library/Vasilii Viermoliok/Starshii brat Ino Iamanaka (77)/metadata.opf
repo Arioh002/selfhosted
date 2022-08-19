@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">77</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f07c5c96-ac7e-4038-8259-4bcc344b59c6</dc:identifier>
+        <dc:title>Старший брат Ино Яманака</dc:title>
+        <dc:creator opf:file-as="Вермолёк, Василий" opf:role="aut">Василий Вермолёк</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Новый персонаж – старший брат известной куноичи из клана мозголомов, одногодка Итачи Учиха. В качестве изюминки, он обладает связью с двумя персонажами из других вселенных Overlord (аниме) и The Elder Srcolls: Skyrim. Однако, главный герой ограничен в ресурсах и не может, получить всё и сразу.</dc:description>
+        <dc:language>rus</dc:language>
+        <dc:subject>фанфик</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Василий Вермолёк&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-07-24T16:45:38.123747+00:00"/>
+        <meta name="calibre:title_sort" content="Старший брат Ино Яманака"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Обложка" href="cover.jpg"/>
+    </guide>
+</package>

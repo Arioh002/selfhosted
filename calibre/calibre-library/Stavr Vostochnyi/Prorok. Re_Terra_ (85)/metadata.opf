@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">85</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">35eae6ad-f225-4796-8b57-b9f4ca35c7bb</dc:identifier>
+        <dc:title>Пророк. Re:Terra.</dc:title>
+        <dc:creator opf:file-as="Восточный, Ставр" opf:role="aut">Ставр Восточный</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Люди землю пролюбили, апокалипсис нашли.
+        Но зеленые пришельцы нас сегодня всех спасли.
+        Жить теперь игрою будем, крафтить будем, монстров бить.
+        Фаерболами швыряться, гриндить, баффить, в Данжах жить.
+        Даже Петька-гопник нынче, не шпана, а грозный маг.
+        Эльфы тоже не легенда, но нацисты – просто мрак.
+        И герой наш – просто чудо, жизнь свою прожил уж раз.
+        И теперь люлей он будет раздавать всем про запас.
+        Но хиханьки с хаханьками в сторону, поговорим прозой:
+        В мир пришла Система (зло из космоса здесь не причем, человеки сами виноваты). Жить стало лучше (нет), жить стало веселей! Не сказать, чтобы всем совсем писец. Всё так, мы в чем-то живучей тараканов будем, но проблем хватает. И с годами легче не становится, скорее наоборот (но так и до Системы было…).
+        (ниже мысли главного героя. В примечаниях):</dc:description>
+        <dc:language>rus</dc:language>
+        <dc:subject>фантастика</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ставр Восточный&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Пророк. Re:Terra."/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2022-08-02T13:03:12.575000+00:00"/>
+        <meta name="calibre:title_sort" content="Пророк. Re:Terra."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Обложка" href="cover.jpg"/>
+    </guide>
+</package>

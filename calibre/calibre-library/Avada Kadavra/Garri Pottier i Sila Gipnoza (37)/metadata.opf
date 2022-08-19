@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">915c8a16-15b6-4b8b-b5be-cb3b76922782</dc:identifier>
+        <dc:title>Гарри Поттер и Сила Гипноза</dc:title>
+        <dc:creator opf:file-as="Kadavra, Avada" opf:role="aut">Avada Kadavra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.0.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-22T21:00:00+00:00</dc:date>
+        <dc:description>&lt;div class="urlize-links js-public-beta-description"&gt;Хентай по Гарри Поттеру. Использование зелий, заклятий принуждения и прочей взламывающей мозг жертвы хе... дребедени для того самого хентая. Никакой жалости к персонажам. Я все сказал. &lt;/div&gt;</dc:description>
+        <dc:publisher>ficbook.net</dc:publisher>
+        <dc:identifier opf:scheme="URL">https://ficbook.net/readfic/3025590</dc:identifier>
+        <dc:language>rus</dc:language>
+        <dc:subject>фанфик</dc:subject>
+        <dc:subject>pwp</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Avada Kadavra&quot;: &quot;https://ficbook.net/authors/1149804&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-07-20T15:11:13.571060+00:00"/>
+        <meta name="calibre:title_sort" content="Гарри Поттер и Сила Гипноза"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Обложка" href="cover.jpg"/>
+    </guide>
+</package>

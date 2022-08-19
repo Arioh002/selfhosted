@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">76</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c545226c-ca90-4d62-9b0e-42a140de8afd</dc:identifier>
+        <dc:title>Шиноби Скрытого Куба</dc:title>
+        <dc:creator opf:file-as="Вермолёк, Василий" opf:role="aut">Василий Вермолёк</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Бессмертие и могущество в обмен на сомнительный дар? Это чья-то глупая шутка? Случайная аномалия?! Уже два раза ловил себя на мысли, что хуже просто быть не может... Стоп-стоп, глаза обманите меня пожалуйста, я не хочу этого видеть! Мир шиноби, да?! Да вашу ж мать!</dc:description>
+        <dc:language>rus</dc:language>
+        <dc:subject>фанфик</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Василий Вермолёк&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Кубическая серия"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2022-07-24T16:27:11.280169+00:00"/>
+        <meta name="calibre:title_sort" content="Шиноби Скрытого Куба"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Обложка" href="cover.jpg"/>
+    </guide>
+</package>

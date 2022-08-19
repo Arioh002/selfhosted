@@ -1,0 +1,370 @@
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.18.0.2 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.20.0.2 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.21.0.3 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.22.0.2 port: 8081
+Failed to send all data in state: State: write_chunk Client: 172.22.0.3:40198 Request: GET / HTTP/1.1 with error: [Errno 32] Broken pipe
+Failed to send all data in state: State: write_chunk Client: 23.251.102.74:55300 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 172.22.0.3
+Failed to send all data in state: State: write_chunk Client: 64.227.24.205:50878 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 167.94.146.58:53698 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.22.0.4 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.23.0.2 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.23.0.2 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.23.0.2 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.23.0.2 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.24.0.3 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.24.0.3 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.24.0.3 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.24.0.3 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.25.0.3 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.26.0.3 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.27.0.3 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.28.0.3 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.29.0.2 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.29.0.2 port: 8081
+Failed to send all data in state: State: write_chunk Client: 198.199.111.152:35670 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.30.0.2 port: 8081
+Failed to send all data in state: State: write_chunk Client: 172.30.0.3:45406 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 172.30.0.3:45462 Request: GET / HTTP/1.1 with error: [Errno 32] Broken pipe
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.30.0.2 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.30.0.2 port: 8081
+Failed login attempt from: 172.30.0.3
+Failed login attempt from: 172.30.0.3
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.30.0.2 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.30.0.2 port: 8081
+Failed login attempt from: 172.30.0.3
+Failed login attempt from: 172.30.0.3
+Failed to send all data in state: State: write_chunk Client: 167.94.138.60:34758 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.30.0.2 port: 8081
+Failed to send all data in state: State: write_chunk Client: 172.30.0.3:47444 Request: GET / HTTP/1.1 with error: [Errno 32] Broken pipe
+Failed login attempt from: 172.30.0.3
+Failed to send all data in state: State: write_chunk Client: 185.180.143.72:49288 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 172.30.0.3:48486 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 172.30.0.3:48518 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 128.14.141.34:53036 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 162.142.125.8:45752 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 185.180.143.76:47308 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 172.30.0.3:48602 Request: GET / HTTP/1.1 with error: [Errno 32] Broken pipe
+Failed to send all data in state: State: write_chunk Client: 172.30.0.3:48606 Request: GET / HTTP/1.1 with error: [Errno 32] Broken pipe
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.31.0.3 port: 8081
+Failed to send all data in state: State: write_chunk Client: 23.251.102.74:57516 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 172.31.0.2
+Failed login attempt from: 172.31.0.2
+Failed login attempt from: 172.31.0.2
+Failed login attempt from: 172.31.0.2
+Failed login attempt from: 172.31.0.2
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 192.168.0.3 port: 8081
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 167.248.133.46:54014 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 162.142.125.212:33158 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 167.94.138.119:54362 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 43.158.217.205:34648 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 167.94.138.44:49464 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 167.94.146.60:48032 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 23.251.102.74:38676 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 167.248.133.46:43338 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 167.248.133.47:45252 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 162.142.125.212:47308 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 167.94.138.60:38764 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 185.180.143.15:41454 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 43.158.217.205:41822 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 167.94.145.58:52470 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 209.141.57.178:48558 Request: GET / HTTP/1.1 with error: [Errno 32] Broken pipe
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 167.248.133.63:49926 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 192.168.0.2:48152 Request: GET / HTTP/1.1 with error: [Errno 32] Broken pipe
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 162.142.125.220:52768 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 162.142.125.220:50192 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 64.225.107.31:50316 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 192.168.0.2:50300 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 192.168.0.2:50304 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 192.168.0.2:50298 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 167.94.138.117:54036 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 185.180.143.136:34564 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 128.1.248.26:42446 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 18.156.193.115:42782 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 128.14.141.34:50316 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 167.248.133.118:37748 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 185.220.100.252:15472 Request: GET / HTTP/1.1 with error: [Errno 32] Broken pipe
+Failed to send all data in state: State: write_chunk Client: 167.94.138.45:46902 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 162.142.125.222:57026 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 45.55.37.132:35416 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 167.94.138.45:47302 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 159.203.67.101:33494 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 35.233.62.116:57732 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 167.94.146.60:32888 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 54.67.14.71:40756 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 106.75.4.49:54424 Request: GET / HTTP/1.1 with error: [Errno 32] Broken pipe
+Failed to send all data in state: State: write_chunk Client: 167.248.133.120:42546 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 128.1.248.42:56042 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 81.70.9.83:53010 Request: GET / HTTP/1.1 with error: [Errno 32] Broken pipe
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 184.105.247.195:35898 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 162.142.125.220:48348 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 74.82.47.5:9318 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 192.168.0.2:55668 Request: GET / HTTP/1.1 with error: [Errno 32] Broken pipe
+Failed to send all data in state: State: write_chunk Client: 192.168.0.2:55670 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 167.248.133.46:34188 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 23.251.102.74:59862 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 128.14.141.34:54750 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 185.180.143.6:40620 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 167.94.145.59:58966 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 64.62.197.17:22808 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 167.94.145.60:49842 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 192.168.0.2:56364 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 192.168.0.2:56368 Request: GET / HTTP/1.1 with error: [Errno 32] Broken pipe
+Failed to send all data in state: State: write_chunk Client: 192.168.0.2:56796 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 192.168.0.2:56798 Request: GET / HTTP/1.1 with error: [Errno 32] Broken pipe
+Failed to send all data in state: State: write_chunk Client: 192.168.0.2:56800 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 216.218.206.67:62608 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 128.1.248.42:36482 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 167.94.138.46:50516 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 163.123.143.56:37816 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 64.62.197.62:20986 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 192.168.0.2:58464 Request: GET / HTTP/1.1 with error: [Errno 32] Broken pipe
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 162.142.125.219:43996 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed to send all data in state: State: write_chunk Client: 128.14.133.58:43748 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+Failed login attempt from: 192.168.0.2
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 192.168.0.2 port: 8081
+Failed login attempt from: 192.168.0.3
+Failed login attempt from: 192.168.0.3
+Failed to send all data in state: State: write_chunk Client: 43.153.208.98:51986 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 64.62.197.137:9936 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.3
+Failed login attempt from: 192.168.0.3
+Failed login attempt from: 192.168.0.3
+Failed login attempt from: 192.168.0.3
+Failed to send all data in state: State: write_chunk Client: 167.94.138.61:45538 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.3
+Failed to send all data in state: State: write_chunk Client: 192.168.0.3:45944 Request: GET / HTTP/1.1 with error: [Errno 32] Broken pipe
+Failed to send all data in state: State: write_chunk Client: 167.94.146.59:54496 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed to send all data in state: State: write_chunk Client: 185.220.101.171:13062 Request: GET / HTTP/1.1 with error: [Errno 32] Broken pipe
+Failed to send all data in state: State: write_chunk Client: 64.62.197.47:50744 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+Failed login attempt from: 192.168.0.3
+Failed login attempt from: 192.168.0.3
+Failed login attempt from: 192.168.0.3
+Failed login attempt from: 192.168.0.3
+Failed login attempt from: 192.168.0.3
+Failed login attempt from: 192.168.0.3
+Failed login attempt from: 192.168.0.3
+Failed login attempt from: 192.168.0.3
+Failed to send all data in state: State: write_chunk Client: 167.248.133.45:55118 Request: GET / HTTP/1.1 with error: [Errno 104] Connection reset by peer
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.18.0.2 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.19.0.2 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.20.0.3 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.21.0.3 port: 8081
+Failed login attempt from: 172.21.0.2
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.22.0.3 port: 8081
+Failed login attempt from: 172.22.0.2
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.23.0.2 port: 8081
+Failed login attempt from: 172.23.0.3
+Failed login attempt from: 172.23.0.3
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.24.0.2 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.25.0.4 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.26.0.4 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.27.0.4 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.28.0.3 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.18.0.4 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.18.0.4 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.18.0.3 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.19.0.4 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.20.0.3 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.21.0.4 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.22.0.4 port: 8081
+Failed login attempt from: 172.22.0.3

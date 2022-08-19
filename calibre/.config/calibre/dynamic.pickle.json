@@ -1,0 +1,18 @@
+{
+  "add books dialog dir": "/config/calibre-library/books-to-add",
+  "add books dialog dir-last-used-filter-spec-all-files": false,
+  "add fonts to calibre": "/config",
+  "database location dialog": "/config/calibre-library",
+  "export-calibre-dir": "/config/calibre-library/backup",
+  "fff_no_reading_list_plugin_again": false,
+  "notified-version-updates": {
+    "__class__": "set",
+    "__value__": [
+      "6.2",
+      "6.3"
+    ]
+  },
+  "s_r_search_mode": 0,
+  "welcome_wizard_device": "android",
+  "welcome_wizard_was_run": true
+}

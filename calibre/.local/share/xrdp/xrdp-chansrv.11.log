@@ -1,0 +1,7 @@
+[20220813-10:51:58] [CORE ] main: app started pid 517(0x00000205)
+[20220813-10:51:58] [INFO ] main: DISPLAY env var set to :11.0
+[20220813-10:51:58] [INFO ] main: using DISPLAY 11
+[20220813-10:51:58] [INFO ] channel_thread_loop: thread start
+[20220813-10:51:58] [INFO ] Socket 12: AF_UNIX connection received
+[20220813-10:52:12] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20220814-20:42:56] [INFO ] Socket 13: AF_UNIX connection received

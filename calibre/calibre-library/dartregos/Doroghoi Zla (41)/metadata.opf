@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4bce7fad-4656-404a-810c-a9259bc396a2</dc:identifier>
+        <dc:title>Дорогой Зла</dc:title>
+        <dc:creator opf:file-as="dartregos" opf:role="aut">dartregos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-23T21:00:00+00:00</dc:date>
+        <dc:description>&lt;div class="urlize-links js-public-beta-description"&gt;Гарри Поттер всегда жил в страхе. Он терпел унижения и побои. Ему постоянно твердили, что он бесполезный неудачник и живет в долг, что лучше бы его не было. А потому, когда голоса в голове начинают говорить ему, что все совсем не так и он вполне может доказать это окружающим - Гарри с удовольствием их слушает.&lt;br/&gt;
+Слушает, не подозревая, что был Избран в качестве проводника четырьмя демоническими сущностями, желающими принести Хаос в его мир.&lt;br/&gt;
+Так начинается его путь. Путь по Дороге Зла!&lt;/div&gt;</dc:description>
+        <dc:publisher>ficbook.net</dc:publisher>
+        <dc:identifier opf:scheme="URL">https://ficbook.net/readfic/10563183</dc:identifier>
+        <dc:language>rus</dc:language>
+        <dc:subject>фанфик</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;dartregos&quot;: &quot;https://ficbook.net/authors/1205784&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-07-20T15:11:18+00:00"/>
+        <meta name="calibre:title_sort" content="Дорогой Зла"/>
+        <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;EPUB&quot;, &quot;user_type&quot;: &quot;web&quot;, &quot;user&quot;: &quot;arioh&quot;, &quot;annotation&quot;: {&quot;type&quot;: &quot;bookmark&quot;, &quot;timestamp&quot;: &quot;2022-07-14T20:37:23.433Z&quot;, &quot;pos_type&quot;: &quot;epubcfi&quot;, &quot;pos&quot;: &quot;epubcfi(/14/2/4/4[content]/1:12754)&quot;, &quot;title&quot;: &quot;Bookmark #1&quot;}}"/>
+        <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;EPUB&quot;, &quot;user_type&quot;: &quot;web&quot;, &quot;user&quot;: &quot;arioh&quot;, &quot;annotation&quot;: {&quot;type&quot;: &quot;bookmark&quot;, &quot;timestamp&quot;: &quot;2022-07-15T12:28:26.270Z&quot;, &quot;pos_type&quot;: &quot;epubcfi&quot;, &quot;pos&quot;: &quot;epubcfi(/18/2/4/4[content]/1:8821)&quot;, &quot;title&quot;: &quot;Bookmark #2&quot;}}"/>
+        <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;EPUB&quot;, &quot;user_type&quot;: &quot;web&quot;, &quot;user&quot;: &quot;arioh&quot;, &quot;annotation&quot;: {&quot;type&quot;: &quot;bookmark&quot;, &quot;timestamp&quot;: &quot;2022-07-16T11:49:34.667Z&quot;, &quot;pos_type&quot;: &quot;epubcfi&quot;, &quot;pos&quot;: &quot;epubcfi(/22/2/4/4[content]/1:12430)&quot;, &quot;title&quot;: &quot;Bookmark #3&quot;}}"/>
+        <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;EPUB&quot;, &quot;user_type&quot;: &quot;web&quot;, &quot;user&quot;: &quot;admin&quot;, &quot;annotation&quot;: {&quot;type&quot;: &quot;bookmark&quot;, &quot;timestamp&quot;: &quot;2022-07-18T12:07:24.180Z&quot;, &quot;pos_type&quot;: &quot;epubcfi&quot;, &quot;pos&quot;: &quot;epubcfi(/22/2/4/4[content]/1:24962)&quot;, &quot;title&quot;: &quot;Закладка #1&quot;}}"/>
+        <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;EPUB&quot;, &quot;user_type&quot;: &quot;web&quot;, &quot;user&quot;: &quot;admin&quot;, &quot;annotation&quot;: {&quot;type&quot;: &quot;bookmark&quot;, &quot;timestamp&quot;: &quot;2022-07-20T15:56:36.139Z&quot;, &quot;pos_type&quot;: &quot;epubcfi&quot;, &quot;pos&quot;: &quot;epubcfi(/26/2/4/4[content]/1:2268)&quot;, &quot;title&quot;: &quot;Закладка #2&quot;}}"/>
+        <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;EPUB&quot;, &quot;user_type&quot;: &quot;web&quot;, &quot;user&quot;: &quot;admin&quot;, &quot;annotation&quot;: {&quot;type&quot;: &quot;bookmark&quot;, &quot;timestamp&quot;: &quot;2022-07-21T14:49:25.563Z&quot;, &quot;pos_type&quot;: &quot;epubcfi&quot;, &quot;pos&quot;: &quot;epubcfi(/26/2/4/4[content]/1:33678)&quot;, &quot;title&quot;: &quot;Закладка #3&quot;}}"/>
+        <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;EPUB&quot;, &quot;user_type&quot;: &quot;web&quot;, &quot;user&quot;: &quot;admin&quot;, &quot;annotation&quot;: {&quot;type&quot;: &quot;bookmark&quot;, &quot;timestamp&quot;: &quot;2022-07-21T15:26:18.792Z&quot;, &quot;pos_type&quot;: &quot;epubcfi&quot;, &quot;pos&quot;: &quot;epubcfi(/28/2/4/4[content]/2:20480)&quot;, &quot;title&quot;: &quot;Закладка #4&quot;}}"/>
+        <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;EPUB&quot;, &quot;user_type&quot;: &quot;web&quot;, &quot;user&quot;: &quot;admin&quot;, &quot;annotation&quot;: {&quot;type&quot;: &quot;bookmark&quot;, &quot;timestamp&quot;: &quot;2022-07-24T06:27:50.623Z&quot;, &quot;pos_type&quot;: &quot;epubcfi&quot;, &quot;pos&quot;: &quot;epubcfi(/30/2/4/4[content]/1:29097)&quot;, &quot;title&quot;: &quot;Закладка #5&quot;}}"/>
+        <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;EPUB&quot;, &quot;user_type&quot;: &quot;web&quot;, &quot;user&quot;: &quot;admin&quot;, &quot;annotation&quot;: {&quot;type&quot;: &quot;bookmark&quot;, &quot;timestamp&quot;: &quot;2022-07-28T05:33:19.990Z&quot;, &quot;pos_type&quot;: &quot;epubcfi&quot;, &quot;pos&quot;: &quot;epubcfi(/38/2/4/4[content]/2:1234)&quot;, &quot;title&quot;: &quot;Закладка #6&quot;}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Обложка" href="cover.jpg"/>
+    </guide>
+</package>

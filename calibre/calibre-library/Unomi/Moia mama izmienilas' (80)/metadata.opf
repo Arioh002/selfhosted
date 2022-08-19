@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">80</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed73e7fc-b3da-4276-9aab-7b782a99e105</dc:identifier>
+        <dc:title>Моя мама изменилась</dc:title>
+        <dc:creator opf:file-as="Unomi" opf:role="aut">Unomi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Translate Rulate</dc:publisher>
+        <dc:language>rus</dc:language>
+        <dc:subject>pwp</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unomi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-07-29T22:02:20.681431+00:00"/>
+        <meta name="calibre:title_sort" content="Моя мама изменилась"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Обложка" href="cover.jpg"/>
+    </guide>
+</package>

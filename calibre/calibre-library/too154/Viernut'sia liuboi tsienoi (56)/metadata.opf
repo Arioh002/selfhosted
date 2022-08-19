@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">56</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">70cf415f-cd45-4a1b-852c-f13e91045e9b</dc:identifier>
+        <dc:title>Вернуться любой ценой</dc:title>
+        <dc:creator opf:file-as="too154" opf:role="aut">too154</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-20T21:00:00+00:00</dc:date>
+        <dc:description>&lt;div class="urlize-links js-public-beta-description"&gt;Не все эксперименты одинаково полезны, а некоторые могут привести к печальным последствиям, но всегда есть выход. Осталось только его найти и вернуться к любящим тебя людям.&lt;/div&gt;</dc:description>
+        <dc:publisher>ficbook.net</dc:publisher>
+        <dc:identifier opf:scheme="URL">https://ficbook.net/readfic/12028238</dc:identifier>
+        <dc:language>rus</dc:language>
+        <dc:subject>фанфик</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;too154&quot;: &quot;https://ficbook.net/authors/1855462&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-07-20T15:10:39+00:00"/>
+        <meta name="calibre:title_sort" content="Вернуться любой ценой"/>
+        <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;EPUB&quot;, &quot;user_type&quot;: &quot;web&quot;, &quot;user&quot;: &quot;admin&quot;, &quot;annotation&quot;: {&quot;type&quot;: &quot;bookmark&quot;, &quot;timestamp&quot;: &quot;2022-08-12T20:57:55.330Z&quot;, &quot;pos_type&quot;: &quot;epubcfi&quot;, &quot;pos&quot;: &quot;epubcfi(/96/2/4/4[content]/1:2210)&quot;, &quot;title&quot;: &quot;Закладка #1&quot;}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Обложка" href="cover.jpg"/>
+    </guide>
+</package>

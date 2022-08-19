@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">75</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89dd9c8c-452c-4b16-b7b1-420620f9b5c8</dc:identifier>
+        <dc:title>Замороженный Мир</dc:title>
+        <dc:creator opf:file-as="Cyberdawn" opf:role="aut">Cyberdawn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Рассказ о похождениях весьма странного попаданца, который не факт, что таковой. В весьма странном мире, весьма замороженном, во многих смыслах. Магия — есть, антураж 19 века — есть. Даже романтика и профессорство, в определённом смысле, есть. Но всё несколько замороженное или отмороженное — вопрос точки зрения.</dc:description>
+        <dc:language>rus</dc:language>
+        <dc:subject>sf-history</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cyberdawn&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Полный минус"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2022-07-24T15:04:11.337058+00:00"/>
+        <meta name="calibre:title_sort" content="Замороженный Мир"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Обложка" href="cover.jpg"/>
+    </guide>
+</package>

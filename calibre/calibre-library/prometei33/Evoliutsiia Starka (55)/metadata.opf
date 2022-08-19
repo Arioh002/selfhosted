@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f024afdd-a452-4bdd-b97b-9758fdbb029a</dc:identifier>
+        <dc:title>Эволюция Старка</dc:title>
+        <dc:creator opf:file-as="prometei33" opf:role="aut">prometei33</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-24T21:00:00+00:00</dc:date>
+        <dc:description>&lt;div class="urlize-links js-public-beta-description"&gt;В фильме "Железный человек", Тони Старк с магнитом в груди выживает при падении с высоты девятиэтажного дома, после прыжка в сделанном из металлолома экзоскелете Марк-I. А что если реальность будет такова, что он как и полагается простому человеку, не выживет? И в это время с ним сольётся эмблема мага...&lt;br/&gt;
+&lt;br/&gt;
+Спин-офф Эволюции и Революции Маггла в мире Марвел. Первую и вторую часть можно прочитать по ссылкам ниже:&lt;br/&gt;
+https://ficbook.net/readfic/8430147&lt;br/&gt;
+https://ficbook.net/readfic/9908007&lt;/div&gt;</dc:description>
+        <dc:publisher>ficbook.net</dc:publisher>
+        <dc:identifier opf:scheme="URL">https://ficbook.net/readfic/12155528</dc:identifier>
+        <dc:language>rus</dc:language>
+        <dc:subject>фанфик</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;prometei33&quot;: &quot;https://ficbook.net/authors/2089868&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-08-14T20:43:45.406761+00:00"/>
+        <meta name="calibre:title_sort" content="Эволюция Старка"/>
+        <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;EPUB&quot;, &quot;user_type&quot;: &quot;web&quot;, &quot;user&quot;: &quot;arioh&quot;, &quot;annotation&quot;: {&quot;type&quot;: &quot;bookmark&quot;, &quot;timestamp&quot;: &quot;2022-07-13T09:54:05.494Z&quot;, &quot;pos_type&quot;: &quot;epubcfi&quot;, &quot;pos&quot;: &quot;epubcfi(/26/2/4/4[content]/1:8314)&quot;, &quot;title&quot;: &quot;Bookmark #1&quot;}}"/>
+        <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;EPUB&quot;, &quot;user_type&quot;: &quot;web&quot;, &quot;user&quot;: &quot;arioh&quot;, &quot;annotation&quot;: {&quot;type&quot;: &quot;bookmark&quot;, &quot;timestamp&quot;: &quot;2022-07-13T17:25:46.588Z&quot;, &quot;pos_type&quot;: &quot;epubcfi&quot;, &quot;pos&quot;: &quot;epubcfi(/32/2/4/4[content]/1:6872)&quot;, &quot;title&quot;: &quot;Bookmark #2&quot;}}"/>
+        <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;EPUB&quot;, &quot;user_type&quot;: &quot;web&quot;, &quot;user&quot;: &quot;admin&quot;, &quot;annotation&quot;: {&quot;type&quot;: &quot;bookmark&quot;, &quot;timestamp&quot;: &quot;2022-07-22T15:10:41.334Z&quot;, &quot;pos_type&quot;: &quot;epubcfi&quot;, &quot;pos&quot;: &quot;epubcfi(/52/2/4/4[content]/1:1038)&quot;, &quot;title&quot;: &quot;Закладка #1&quot;}}"/>
+        <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;EPUB&quot;, &quot;user_type&quot;: &quot;web&quot;, &quot;user&quot;: &quot;admin&quot;, &quot;annotation&quot;: {&quot;type&quot;: &quot;bookmark&quot;, &quot;timestamp&quot;: &quot;2022-07-22T19:47:31.826Z&quot;, &quot;pos_type&quot;: &quot;epubcfi&quot;, &quot;pos&quot;: &quot;epubcfi(/52/2/4/4[content]/1:16372)&quot;, &quot;title&quot;: &quot;Закладка #2&quot;}}"/>
+        <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;EPUB&quot;, &quot;user_type&quot;: &quot;web&quot;, &quot;user&quot;: &quot;admin&quot;, &quot;annotation&quot;: {&quot;type&quot;: &quot;bookmark&quot;, &quot;timestamp&quot;: &quot;2022-07-30T20:45:41.068Z&quot;, &quot;pos_type&quot;: &quot;epubcfi&quot;, &quot;pos&quot;: &quot;epubcfi(/56/2/4/4[content]/1:4715)&quot;, &quot;title&quot;: &quot;Закладка #3&quot;}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Обложка" href="cover.jpg"/>
+    </guide>
+</package>

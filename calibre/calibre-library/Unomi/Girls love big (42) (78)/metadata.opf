@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">78</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d230e579-1d55-450d-a84f-f6f3a3b6291a</dc:identifier>
+        <dc:title>Girls love big (42)</dc:title>
+        <dc:creator opf:file-as="Unomi" opf:role="aut">Unomi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>rus</dc:language>
+        <dc:subject>pwp</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unomi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-07-29T22:02:20.126870+00:00"/>
+        <meta name="calibre:title_sort" content="Girls love big (42)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Обложка" href="cover.jpg"/>
+    </guide>
+</package>

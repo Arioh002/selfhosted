@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">61</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9e0271fc-d585-46a8-9c29-88e2de706e9d</dc:identifier>
+        <dc:title>Ван Пис: Бессмертный</dc:title>
+        <dc:creator opf:file-as="Райзен" opf:role="aut">Райзен</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.0.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-19T21:00:00+00:00</dc:date>
+        <dc:description>&lt;div class="urlize-links js-public-beta-description"&gt;Вечность - есть ключ ко всему.&lt;br/&gt;
+Императоры? Короли пиратов? Лишь титулы на страницах истории. Богатство, слава и власть?  Лишь мимолётные мгновения триумфа.&lt;br/&gt;
+Мечты и стремления обращаются в прах под гнётом беспощадного времени, сила угасает, знания теряют смысл.&lt;br/&gt;
+Истинная сила вечна. &lt;br/&gt;
+Забытый и проклятый, прошедший сквозь муки Ада, он вернулся в этот безжалостный мир.&lt;br/&gt;
+Кровь и погибель вымостят дорогу бессмертного, ужас и ненависть озарят его на пути к цели.&lt;br/&gt;
+&lt;/div&gt;</dc:description>
+        <dc:publisher>ficbook.net</dc:publisher>
+        <dc:identifier opf:scheme="URL">https://ficbook.net/readfic/11200177</dc:identifier>
+        <dc:language>rus</dc:language>
+        <dc:subject>фанфик</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Райзен&quot;: &quot;https://ficbook.net/authors/3687445&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-07-20T15:10:13.029746+00:00"/>
+        <meta name="calibre:title_sort" content="Ван Пис: Бессмертный"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Обложка" href="cover.jpg"/>
+    </guide>
+</package>

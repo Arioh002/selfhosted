@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">31047cb4-b1bd-4284-acd5-cd7ad932f36f</dc:identifier>
+        <dc:title>Хранитель рода государева 3</dc:title>
+        <dc:creator opf:file-as="Шмаков, Алексей" opf:role="aut">Алексей Шмаков</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Я наследник рода, который уже не одну сотню лет является щитом императорской семьи. Рода, который ненавидят все аристократы империи. Рода, сила которого пугает абсолютно всех. Я умер, выполняя свой долг. Но, как оказалось, смерть далеко не конец. Ждите меня! I’ll Be Back!</dc:description>
+        <dc:language>rus</dc:language>
+        <dc:subject>фентези</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Алексей Шмаков&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Хранитель Рода Государева"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2022-06-04T22:48:44+00:00"/>
+        <meta name="calibre:title_sort" content="Хранитель рода государева 3"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Обложка" href="cover.jpg"/>
+    </guide>
+</package>
