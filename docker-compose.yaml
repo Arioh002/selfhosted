@@ -36,25 +36,27 @@ services:
   adguardhome:
     image: adguard/adguardhome
     container_name: adguardhome
-    #network_mode: host
     ports:
-      - "53:53"
-      - "853:853"
-      #- "90:80"
+      - "53:53/tcp"
+      - "53:53/udp"
+      - "853:853/tcp"
+      - "853:853/udp"
+      - "443:443"
     expose:
       - "53"
+      - "443"
       - "853"
       - "3000"
       - "80"
     volumes:
-      - /data/workdir:/opt/adguardhome/work
-      - /data/confdir:/opt/adguardhome/conf
+      - /data/adguard/workdir:/opt/adguardhome/work
+      - /data/adguard/confdir:/opt/adguardhome/conf
     restart: unless-stopped
     labels:
       - "traefik.enable=true"
 
       - "traefik.http.routers.dns.rule=Host(`dns.arioh.ru`)"
-      - "traefik.http.routers.dns.entrypoints=dns"
+      - "traefik.http.routers.dns.entrypoints=tcpdns,udpdns"
       - "traefik.http.routers.dns.service=adg_dns"
 
       - "traefik.http.services.adg_dns.loadbalancer.server.port=53"
@@ -85,12 +87,16 @@ services:
       - "--providers.docker=true"
       - "--providers.docker.exposedbydefault=false"
       - "--entrypoints.web.address=:80"
-      - "--entrypoints.dns.address=:53"
+      - "--entrypoints.webs.address=:443"
+      - "--entrypoints.tcpdns.address=:53"
+      - "--entrypoints.udpdns.address=:53/udp"
       - "--entrypoints.sdns.address=:853"
     ports:
-      #- "53:53"
+      #- "53:53/tcp"
+      #- "53:53/udp"
       #- "853:853"
       - "80:80"
+      #- "443:443"
       - "8080:8080"
     volumes:
       - "/var/run/docker.sock:/var/run/docker.sock:ro"
