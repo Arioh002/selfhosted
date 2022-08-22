@@ -484,3 +484,245 @@ Traceback (most recent call last):
   File "calibre/db/backend.py", line 1020, in execute
 apsw.ReadOnlyError: ReadOnlyError: attempt to write a readonly database
 
+Unhandled exception in state: State: _job_done Client: 172.25.0.2:53592 Request: POST /book-set-last-read-position/calibre-library/79/EPUB HTTP/1.1
+Traceback (most recent call last):
+  File "calibre/srv/loop.py", line 626, in tick
+  File "calibre/srv/loop.py", line 347, in _job_done
+  File "calibre/srv/http_response.py", line 502, in job_done
+  File "polyglot/builtins.py", line 61, in reraise
+  File "calibre/srv/pool.py", line 33, in run
+  File "calibre/srv/http_response.py", line 459, in run_request_handler
+  File "calibre/srv/routes.py", line 312, in dispatch
+  File "calibre/srv/books.py", line 223, in set_last_read_position
+  File "calibre/db/cache.py", line 77, in call_func_with_lock
+  File "calibre/db/cache.py", line 2678, in set_last_read_position
+  File "calibre/db/backend.py", line 1020, in execute
+apsw.ReadOnlyError: ReadOnlyError: attempt to write a readonly database
+
+Unhandled exception in state: State: _job_done Client: 172.25.0.2:53586 Request: POST /book-update-annotations/calibre-library/79/EPUB HTTP/1.1
+Traceback (most recent call last):
+  File "calibre/srv/loop.py", line 626, in tick
+  File "calibre/srv/loop.py", line 347, in _job_done
+  File "calibre/srv/http_response.py", line 502, in job_done
+  File "polyglot/builtins.py", line 61, in reraise
+  File "calibre/srv/pool.py", line 33, in run
+  File "calibre/srv/http_response.py", line 459, in run_request_handler
+  File "calibre/srv/routes.py", line 312, in dispatch
+  File "calibre/srv/books.py", line 269, in update_annotations
+  File "calibre/db/cache.py", line 77, in call_func_with_lock
+  File "calibre/db/cache.py", line 2821, in merge_annotations_for_book
+  File "calibre/db/cache.py", line 2808, in set_annotations_for_book
+  File "calibre/db/backend.py", line 2056, in set_annotations_for_book
+  File "calibre/db/backend.py", line 315, in save_annotations_for_book
+apsw.ReadOnlyError: ReadOnlyError: attempt to write a readonly database
+
+Unhandled exception in state: State: _job_done Client: 172.25.0.2:53584 Request: POST /book-set-last-read-position/calibre-library/79/EPUB HTTP/1.1
+Traceback (most recent call last):
+  File "calibre/srv/loop.py", line 626, in tick
+  File "calibre/srv/loop.py", line 347, in _job_done
+  File "calibre/srv/http_response.py", line 502, in job_done
+  File "polyglot/builtins.py", line 61, in reraise
+  File "calibre/srv/pool.py", line 33, in run
+  File "calibre/srv/http_response.py", line 459, in run_request_handler
+  File "calibre/srv/routes.py", line 312, in dispatch
+  File "calibre/srv/books.py", line 223, in set_last_read_position
+  File "calibre/db/cache.py", line 77, in call_func_with_lock
+  File "calibre/db/cache.py", line 2678, in set_last_read_position
+  File "calibre/db/backend.py", line 1020, in execute
+apsw.ReadOnlyError: ReadOnlyError: attempt to write a readonly database
+
+Unhandled exception in state: State: _job_done Client: 172.25.0.2:53594 Request: POST /book-set-last-read-position/calibre-library/79/EPUB HTTP/1.1
+Traceback (most recent call last):
+  File "calibre/srv/loop.py", line 626, in tick
+  File "calibre/srv/loop.py", line 347, in _job_done
+  File "calibre/srv/http_response.py", line 502, in job_done
+  File "polyglot/builtins.py", line 61, in reraise
+  File "calibre/srv/pool.py", line 33, in run
+  File "calibre/srv/http_response.py", line 459, in run_request_handler
+  File "calibre/srv/routes.py", line 312, in dispatch
+  File "calibre/srv/books.py", line 223, in set_last_read_position
+  File "calibre/db/cache.py", line 77, in call_func_with_lock
+  File "calibre/db/cache.py", line 2678, in set_last_read_position
+  File "calibre/db/backend.py", line 1020, in execute
+apsw.ReadOnlyError: ReadOnlyError: attempt to write a readonly database
+
+Unhandled exception in state: State: _job_done Client: 172.25.0.2:53596 Request: POST /book-set-last-read-position/calibre-library/79/EPUB HTTP/1.1
+Traceback (most recent call last):
+  File "calibre/srv/loop.py", line 626, in tick
+  File "calibre/srv/loop.py", line 347, in _job_done
+  File "calibre/srv/http_response.py", line 502, in job_done
+  File "polyglot/builtins.py", line 61, in reraise
+  File "calibre/srv/pool.py", line 33, in run
+  File "calibre/srv/http_response.py", line 459, in run_request_handler
+  File "calibre/srv/routes.py", line 312, in dispatch
+  File "calibre/srv/books.py", line 223, in set_last_read_position
+  File "calibre/db/cache.py", line 77, in call_func_with_lock
+  File "calibre/db/cache.py", line 2678, in set_last_read_position
+  File "calibre/db/backend.py", line 1020, in execute
+apsw.ReadOnlyError: ReadOnlyError: attempt to write a readonly database
+
+Unhandled exception in state: State: _job_done Client: 172.25.0.2:53590 Request: POST /book-set-last-read-position/calibre-library/79/EPUB HTTP/1.1
+Traceback (most recent call last):
+  File "calibre/srv/loop.py", line 626, in tick
+  File "calibre/srv/loop.py", line 347, in _job_done
+  File "calibre/srv/http_response.py", line 502, in job_done
+  File "polyglot/builtins.py", line 61, in reraise
+  File "calibre/srv/pool.py", line 33, in run
+  File "calibre/srv/http_response.py", line 459, in run_request_handler
+  File "calibre/srv/routes.py", line 312, in dispatch
+  File "calibre/srv/books.py", line 223, in set_last_read_position
+  File "calibre/db/cache.py", line 77, in call_func_with_lock
+  File "calibre/db/cache.py", line 2678, in set_last_read_position
+  File "calibre/db/backend.py", line 1020, in execute
+apsw.ReadOnlyError: ReadOnlyError: attempt to write a readonly database
+
+Unhandled exception in state: State: _job_done Client: 172.25.0.2:53588 Request: POST /book-set-last-read-position/calibre-library/62/EPUB HTTP/1.1
+Traceback (most recent call last):
+  File "calibre/srv/loop.py", line 626, in tick
+  File "calibre/srv/loop.py", line 347, in _job_done
+  File "calibre/srv/http_response.py", line 502, in job_done
+  File "polyglot/builtins.py", line 61, in reraise
+  File "calibre/srv/pool.py", line 33, in run
+  File "calibre/srv/http_response.py", line 459, in run_request_handler
+  File "calibre/srv/routes.py", line 312, in dispatch
+  File "calibre/srv/books.py", line 223, in set_last_read_position
+  File "calibre/db/cache.py", line 77, in call_func_with_lock
+  File "calibre/db/cache.py", line 2678, in set_last_read_position
+  File "calibre/db/backend.py", line 1020, in execute
+apsw.ReadOnlyError: ReadOnlyError: attempt to write a readonly database
+
+Unhandled exception in state: State: _job_done Client: 172.25.0.2:53598 Request: POST /book-set-last-read-position/calibre-library/79/EPUB HTTP/1.1
+Traceback (most recent call last):
+  File "calibre/srv/loop.py", line 626, in tick
+  File "calibre/srv/loop.py", line 347, in _job_done
+  File "calibre/srv/http_response.py", line 502, in job_done
+  File "polyglot/builtins.py", line 61, in reraise
+  File "calibre/srv/pool.py", line 33, in run
+  File "calibre/srv/http_response.py", line 459, in run_request_handler
+  File "calibre/srv/routes.py", line 312, in dispatch
+  File "calibre/srv/books.py", line 223, in set_last_read_position
+  File "calibre/db/cache.py", line 77, in call_func_with_lock
+  File "calibre/db/cache.py", line 2678, in set_last_read_position
+  File "calibre/db/backend.py", line 1020, in execute
+apsw.ReadOnlyError: ReadOnlyError: attempt to write a readonly database
+
+Unhandled exception in state: State: _job_done Client: 172.25.0.2:53600 Request: POST /book-set-last-read-position/calibre-library/79/EPUB HTTP/1.1
+Traceback (most recent call last):
+  File "calibre/srv/loop.py", line 626, in tick
+  File "calibre/srv/loop.py", line 347, in _job_done
+  File "calibre/srv/http_response.py", line 502, in job_done
+  File "polyglot/builtins.py", line 61, in reraise
+  File "calibre/srv/pool.py", line 33, in run
+  File "calibre/srv/http_response.py", line 459, in run_request_handler
+  File "calibre/srv/routes.py", line 312, in dispatch
+  File "calibre/srv/books.py", line 223, in set_last_read_position
+  File "calibre/db/cache.py", line 77, in call_func_with_lock
+  File "calibre/db/cache.py", line 2678, in set_last_read_position
+  File "calibre/db/backend.py", line 1020, in execute
+apsw.ReadOnlyError: ReadOnlyError: attempt to write a readonly database
+
+Unhandled exception in state: State: _job_done Client: 172.25.0.2:53612 Request: POST /book-set-last-read-position/calibre-library/79/EPUB HTTP/1.1
+Traceback (most recent call last):
+  File "calibre/srv/loop.py", line 626, in tick
+  File "calibre/srv/loop.py", line 347, in _job_done
+  File "calibre/srv/http_response.py", line 502, in job_done
+  File "polyglot/builtins.py", line 61, in reraise
+  File "calibre/srv/pool.py", line 33, in run
+  File "calibre/srv/http_response.py", line 459, in run_request_handler
+  File "calibre/srv/routes.py", line 312, in dispatch
+  File "calibre/srv/books.py", line 223, in set_last_read_position
+  File "calibre/db/cache.py", line 77, in call_func_with_lock
+  File "calibre/db/cache.py", line 2678, in set_last_read_position
+  File "calibre/db/backend.py", line 1020, in execute
+apsw.ReadOnlyError: ReadOnlyError: attempt to write a readonly database
+
+Unhandled exception in state: State: _job_done Client: 172.25.0.2:53620 Request: POST /book-set-last-read-position/calibre-library/79/EPUB HTTP/1.1
+Traceback (most recent call last):
+  File "calibre/srv/loop.py", line 626, in tick
+  File "calibre/srv/loop.py", line 347, in _job_done
+  File "calibre/srv/http_response.py", line 502, in job_done
+  File "polyglot/builtins.py", line 61, in reraise
+  File "calibre/srv/pool.py", line 33, in run
+  File "calibre/srv/http_response.py", line 459, in run_request_handler
+  File "calibre/srv/routes.py", line 312, in dispatch
+  File "calibre/srv/books.py", line 223, in set_last_read_position
+  File "calibre/db/cache.py", line 77, in call_func_with_lock
+  File "calibre/db/cache.py", line 2678, in set_last_read_position
+  File "calibre/db/backend.py", line 1020, in execute
+apsw.ReadOnlyError: ReadOnlyError: attempt to write a readonly database
+
+Unhandled exception in state: State: _job_done Client: 172.25.0.2:53622 Request: POST /book-set-last-read-position/calibre-library/79/EPUB HTTP/1.1
+Traceback (most recent call last):
+  File "calibre/srv/loop.py", line 626, in tick
+  File "calibre/srv/loop.py", line 347, in _job_done
+  File "calibre/srv/http_response.py", line 502, in job_done
+  File "polyglot/builtins.py", line 61, in reraise
+  File "calibre/srv/pool.py", line 33, in run
+  File "calibre/srv/http_response.py", line 459, in run_request_handler
+  File "calibre/srv/routes.py", line 312, in dispatch
+  File "calibre/srv/books.py", line 223, in set_last_read_position
+  File "calibre/db/cache.py", line 77, in call_func_with_lock
+  File "calibre/db/cache.py", line 2678, in set_last_read_position
+  File "calibre/db/backend.py", line 1020, in execute
+apsw.ReadOnlyError: ReadOnlyError: attempt to write a readonly database
+
+Unhandled exception in state: State: _job_done Client: 172.25.0.2:53632 Request: POST /book-set-last-read-position/calibre-library/79/EPUB HTTP/1.1
+Traceback (most recent call last):
+  File "calibre/srv/loop.py", line 626, in tick
+  File "calibre/srv/loop.py", line 347, in _job_done
+  File "calibre/srv/http_response.py", line 502, in job_done
+  File "polyglot/builtins.py", line 61, in reraise
+  File "calibre/srv/pool.py", line 33, in run
+  File "calibre/srv/http_response.py", line 459, in run_request_handler
+  File "calibre/srv/routes.py", line 312, in dispatch
+  File "calibre/srv/books.py", line 223, in set_last_read_position
+  File "calibre/db/cache.py", line 77, in call_func_with_lock
+  File "calibre/db/cache.py", line 2678, in set_last_read_position
+  File "calibre/db/backend.py", line 1020, in execute
+apsw.ReadOnlyError: ReadOnlyError: attempt to write a readonly database
+
+Unhandled exception in state: State: _job_done Client: 172.25.0.2:53630 Request: POST /book-set-last-read-position/calibre-library/79/EPUB HTTP/1.1
+Traceback (most recent call last):
+  File "calibre/srv/loop.py", line 626, in tick
+  File "calibre/srv/loop.py", line 347, in _job_done
+  File "calibre/srv/http_response.py", line 502, in job_done
+  File "polyglot/builtins.py", line 61, in reraise
+  File "calibre/srv/pool.py", line 33, in run
+  File "calibre/srv/http_response.py", line 459, in run_request_handler
+  File "calibre/srv/routes.py", line 312, in dispatch
+  File "calibre/srv/books.py", line 223, in set_last_read_position
+  File "calibre/db/cache.py", line 77, in call_func_with_lock
+  File "calibre/db/cache.py", line 2678, in set_last_read_position
+  File "calibre/db/backend.py", line 1020, in execute
+apsw.ReadOnlyError: ReadOnlyError: attempt to write a readonly database
+
+Unhandled exception in state: State: _job_done Client: 172.25.0.2:53638 Request: POST /book-set-last-read-position/calibre-library/79/EPUB HTTP/1.1
+Traceback (most recent call last):
+  File "calibre/srv/loop.py", line 626, in tick
+  File "calibre/srv/loop.py", line 347, in _job_done
+  File "calibre/srv/http_response.py", line 502, in job_done
+  File "polyglot/builtins.py", line 61, in reraise
+  File "calibre/srv/pool.py", line 33, in run
+  File "calibre/srv/http_response.py", line 459, in run_request_handler
+  File "calibre/srv/routes.py", line 312, in dispatch
+  File "calibre/srv/books.py", line 223, in set_last_read_position
+  File "calibre/db/cache.py", line 77, in call_func_with_lock
+  File "calibre/db/cache.py", line 2678, in set_last_read_position
+  File "calibre/db/backend.py", line 1020, in execute
+apsw.ReadOnlyError: ReadOnlyError: attempt to write a readonly database
+
+Unhandled exception in state: State: _job_done Client: 172.25.0.2:53646 Request: POST /book-set-last-read-position/calibre-library/79/EPUB HTTP/1.1
+Traceback (most recent call last):
+  File "calibre/srv/loop.py", line 626, in tick
+  File "calibre/srv/loop.py", line 347, in _job_done
+  File "calibre/srv/http_response.py", line 502, in job_done
+  File "polyglot/builtins.py", line 61, in reraise
+  File "calibre/srv/pool.py", line 33, in run
+  File "calibre/srv/http_response.py", line 459, in run_request_handler
+  File "calibre/srv/routes.py", line 312, in dispatch
+  File "calibre/srv/books.py", line 223, in set_last_read_position
+  File "calibre/db/cache.py", line 77, in call_func_with_lock
+  File "calibre/db/cache.py", line 2678, in set_last_read_position
+  File "calibre/db/backend.py", line 1020, in execute
+apsw.ReadOnlyError: ReadOnlyError: attempt to write a readonly database
+
