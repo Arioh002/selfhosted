@@ -709,16 +709,16 @@
     "showmarked": false,
     "smarten_punctuation": true,
     "std_cols_newonly": {
-      "title": false,
       "authors": false,
-      "publisher": false,
-      "tags": true,
+      "comments": false,
+      "identifiers": false,
       "languages": false,
       "pubdate": false,
-      "timestamp": false,
-      "comments": false,
+      "publisher": false,
       "series": false,
-      "identifiers": false
+      "tags": true,
+      "timestamp": false,
+      "title": false
     },
     "suppressauthorsort": false,
     "suppresstitlesort": false,
