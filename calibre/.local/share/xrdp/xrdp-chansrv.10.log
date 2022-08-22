@@ -1,6 +1,14 @@
-[20220818-21:23:30] [CORE ] main: app started pid 255(0x000000ff)
-[20220818-21:23:30] [INFO ] main: DISPLAY env var set to :10.0
-[20220818-21:23:30] [INFO ] main: using DISPLAY 10
-[20220818-21:23:30] [INFO ] channel_thread_loop: thread start
-[20220818-21:23:30] [INFO ] Socket 12: AF_UNIX connection received
-[20220818-21:23:43] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20220822-08:37:08] [CORE ] main: app started pid 263(0x00000107)
+[20220822-08:37:08] [INFO ] main: DISPLAY env var set to :10.0
+[20220822-08:37:08] [INFO ] main: using DISPLAY 10
+[20220822-08:37:08] [INFO ] channel_thread_loop: thread start
+[20220822-08:37:08] [INFO ] Socket 12: AF_UNIX connection received
+[20220822-08:37:14] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20220822-08:37:14] [INFO ] Socket 13: AF_UNIX connection received
+[20220822-09:07:31] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20220822-09:16:06] [INFO ] Socket 13: AF_UNIX connection received
+[20220822-09:18:10] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20220822-09:24:01] [INFO ] Socket 13: AF_UNIX connection received
+[20220822-09:38:13] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20220822-09:55:51] [INFO ] Socket 13: AF_UNIX connection received
+[20220822-09:57:29] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting

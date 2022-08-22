@@ -48,7 +48,9 @@
     "Preferences",
     "FanFicFare"
   ],
+  "add_comments_to_email": true,
   "advanced search dialog current tab": 0,
+  "auto_convert_same_fmt": true,
   "book_details_splitter_horizontal_state": [
     true,
     200
@@ -83,7 +85,7 @@
   },
   "convert_bulk_dialog_geom": {
     "__class__": "bytearray",
-    "__value__": "AdnQywADAAAAAAAhAAAAFAAABywAAANpAAAAIgAAACgAAAcrAAADZAAAAAAAAAAAB1AAAAAiAAAAKAAABysAAANk"
+    "__value__": "AdnQywADAAAAAAGdAAAAQAAABZ4AAAMUAAABngAAAFQAAAWdAAADDwAAAAAAAAAAB1AAAAGeAAAAVAAABZ0AAAMP"
   },
   "cover_browser_splitter_vertical_state": [
     false,
@@ -106,6 +108,11 @@
     "__class__": "bytearray",
     "__value__": "AdnQywADAAAAAALAAAABDwAABHwAAAJFAAACwQAAASMAAAR7AAACQAAAAAAAAAAAB1AAAALBAAABIwAABHsAAAJA"
   },
+  "filename_pattern_history": [
+    "(?P<title>.+) - (?P<author>[^_]+)",
+    "(?P<title>.+)",
+    "(?P<author>[^_-]+) -?\\s*(?P<series>[^_0-9-]*)(?P<series_index>[0-9]*)\\s*-\\s*(?P<title>[^_].+) ?"
+  ],
   "grid view visible": false,
   "job-detail-view-dialog-geometry": {
     "__class__": "bytearray",
@@ -113,24 +120,26 @@
   },
   "jobs view column layout3": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAigAAAAFAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAAFAAAAmAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAD6AAAAAAAAAAAAA=="
+    "__value__": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAz8AAAAFAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAAFAAAA5wAAAAEAAAAAAAAA6wAAAAEAAAAAAAAApQAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAD6AAAAAAAAAAAAA=="
   },
   "jobs_dialog_geometry": {
     "__class__": "bytearray",
-    "__value__": "AdnQywADAAAAAAHpAAAAMAAABQMAAALfAAAB6gAAAEQAAAUCAAAC2gAAAAAAAAAAB1AAAAHqAAAARAAABQIAAALa"
+    "__value__": "AdnQywADAAAAAACjAAAAAAAABOUAAAK7AAAApAAAABQAAATkAAACtgAAAAAAAAAAB1AAAACkAAAAFAAABOQAAAK2"
   },
   "library_usage_stats": {
-    "/config/calibre-library": 98
+    "/config/calibre-library": 111
   },
+  "manual_add_auto_convert": true,
   "plugin config dialog:Действие в пользовательском интерфейсе:FanFicFare": {
     "__class__": "bytearray",
-    "__value__": "AdnQywADAAAAAAJ7AAAAvAAABMAAAAKYAAACfAAAANAAAAS/AAACkwAAAAAAAAAAB1AAAAJ8AAAA0AAABL8AAAKT"
+    "__value__": "AdnQywADAAAAAACuAAAAswAABM0AAALgAAAArwAAAMcAAATMAAAC2wAAAAAAAAAAB1AAAACvAAAAxwAABMwAAALb"
   },
   "preferences dialog geometry": {
     "__class__": "bytearray",
-    "__value__": "AdnQywADAAAAAAAFAAAAAAAAAwAAAAFPAAAABgAAABQAAAL/AAABSgAAAAAAAAAAAwQAAAAGAAAAFAAAAv8AAAFK"
+    "__value__": "AdnQywADAAAAAAHXAAAAXwAABXoAAANHAAAB2AAAAHMAAAV5AAADQgAAAAAAAAAAB1AAAAHYAAAAcwAABXkAAANC"
   },
   "previous_sort_order_BooksView": {
+    "authors": true,
     "publisher": false,
     "tags": true,
     "timestamp": false

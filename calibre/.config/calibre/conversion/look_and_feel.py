@@ -16,7 +16,7 @@ json:{
   "remove_paragraph_spacing_indent_size": 1.5,
   "insert_blank_line_size": 0.5,
   "input_encoding": null,
-  "filter_css": ",color,background,font-family,background-color",
+  "filter_css": ",background-color,color,font-family,background",
   "expand_css": false,
   "asciiize": false,
   "keep_ligatures": true,

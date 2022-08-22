@@ -5,8 +5,8 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b5f4d0ee-6d42-44a8-b5e5-82734ae2caca</dc:identifier>
         <dc:title>Record of Long yu Feng saga</dc:title>
         <dc:creator opf:file-as="DimitrovRoman" opf:role="aut">DimitrovRoman</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.0.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2019-06-09T21:00:00+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-10T00:00:00+00:00</dc:date>
         <dc:description>&lt;div class="urlize-links js-public-beta-description"&gt;龍與鳳 или же "Lóng yu Fèng" - иначе, "Дракон и Феникс". С давних пор эти существа во многих мифах и легендах могли одновременно быть как парным олицетворением непримиримой вражды, так и доведённым до абсолюта примером гармоничного взаимодействия, отражаемого диаграммой "Инь и Ян": между "злом" и "добром" нет ровной прямой границы, противоположности взаимодополняют друг друга, не может быть чёрного без белого, и наоборот.&lt;br/&gt;
 Что же случится, если кто-то решит воспринять древнюю мудрость дословно?&lt;/div&gt;</dc:description>
         <dc:publisher>ficbook.net</dc:publisher>
@@ -14,7 +14,7 @@
         <dc:language>rus</dc:language>
         <dc:subject>фанфик</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;DimitrovRoman&quot;: &quot;https://ficbook.net/authors/986160&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-07-20T15:16:34.625508+00:00"/>
+        <meta name="calibre:timestamp" content="2022-08-22T09:28:00.332066+00:00"/>
         <meta name="calibre:title_sort" content="Record of Long yu Feng saga"/>
     </metadata>
     <guide>

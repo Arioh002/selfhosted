@@ -368,3 +368,23 @@ OPDS feeds advertised via BonJour at: 172.21.0.4 port: 8081
 calibre server listening on 0.0.0.0:8081
 OPDS feeds advertised via BonJour at: 172.22.0.4 port: 8081
 Failed login attempt from: 172.22.0.3
+Failed login attempt from: 172.22.0.3
+Failed login attempt from: 172.22.0.3
+Failed login attempt from: 172.22.0.3
+Failed login attempt from: 172.22.0.3
+Failed login attempt from: 172.22.0.3
+Failed login attempt from: 172.22.0.3
+Failed login attempt from: 172.22.0.3
+Failed login attempt from: 172.22.0.3
+Failed login attempt from: 172.22.0.3
+Failed login attempt from: 172.22.0.3
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.22.0.4 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.22.0.4 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.22.0.4 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.24.0.2 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.24.0.2 port: 8081

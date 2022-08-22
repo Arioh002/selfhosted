@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-08-19T12:01:27.865Z
+! Last modified: 2022-08-21T12:01:09.977Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,12 @@
 !
 !
 !
+||enturyremove.one^
+||asforsalesr.one^
+||wizxyz.com^
+||encesprincipl.one^
+||ileesidesu.hair^
+||elepts.com^
 ||effolk.com^
 ||thrube.com^
 ||samazd.com^
@@ -22836,6 +22842,8 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||analytics.iss.one^
+||agent.contentsanalyst.com^
 ||analytics.partcommunity.com^
 ||lr-ingest.io^
 ||svibeacon.onezapp.com^
@@ -22899,7 +22907,6 @@ vkcdnservice.appspot.com^
 ||cdn.stroeerdigitalgroup.de^
 ||uplift-platform.com^
 ||lmepbq.com^
-||agent.contentsanalyst.com^
 ||tangerine.io^
 ||b.sli-spark.com^
 ||tracker-rec.smart-bdash.com^
@@ -27263,6 +27270,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.ikyu.com^
 ||analytics.helpukrainewinwidget.org^
 ||ninja.data.olxcdn.com^
 ||event-collector.prd.data.s.joyn.de^
@@ -30080,6 +30088,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||beampulse.com^
 ||beemray.com^
 ||benchtag2.co^
+||bettermeter.com^
 ||bettermetrics.co^
 ||bgpng.me^
 ||bidphysics.com^
@@ -39670,6 +39679,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
 ||001adafg.xyz^
+||004fsdljasd.xyz^
 ||04jhgyt.com^
 ||0577.la^
 ||06fgej.com^
@@ -39755,6 +39765,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||666759.xyz^
 ||666762.xyz^
 ||666763.xyz^
+||666764.xyz^
+||666765.xyz^
 ||69688qp.com^
 ||7080ys.top^
 ||777753.net^
@@ -39819,6 +39831,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||badmniop.top^
 ||baishui.me^
 ||bbt114.cn^
+||bbzerk.cn^
 ||bdzkrl.cn^
 ||bengbaly.fun^
 ||beolit.cn^
@@ -39883,6 +39896,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cruiseeagle.hk^
 ||csfphpn.cn^
 ||csztzc.com^
+||ct4s.top^
+||ctijbeb.cn^
 ||ctlmufv.cn^
 ||ctlweb.site^
 ||culiglsm.space^
@@ -39898,6 +39913,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||danaoren.shop^
 ||dawangde.me^
 ||dcfh7vk.cn^
+||deeplearning.red^
 ||dengbalt.fun^
 ||dfsvhv88.com^
 ||dhrfnyw.xyz^
@@ -39951,6 +39967,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fhfgg.com^
 ||fhsiqk.xyz^
 ||fjlpyz.cn^
+||flsfzr.cn^
 ||fmzxing.pw^
 ||freebuy.top^
 ||fuigixk.cn^
@@ -39980,8 +39997,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gfvip09at.com^
 ||ggkkl.top^
 ||ghhtt.top^
+||girklr.cn^
 ||gitwnd.cn^
+||gjeonh.cn^
 ||gkenql.cn^
+||gkiyvbk.cn^
 ||globalso.biz^
 ||gnaunbiu.rest^
 ||gnbunbiv.rest^
@@ -40015,6 +40035,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||guojinfeng123.top^
 ||gvofl.com^
 ||gwmrb.cn^
+||gwzqbnh.cn^
 ||gxzhshop.com^
 ||gylbh.cn^
 ||gytty.top^
@@ -40031,6 +40052,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||herky.com.cn^
 ||hfwzbp.cn^
 ||hfzq1600.com^
+||hgjxp.cn^
 ||hgkzl.cn^
 ||hhnlhl.cn^
 ||hhyyt.top^
@@ -40082,7 +40104,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||iongsoni.uno^
 ||iorlsblj.cyou^
 ||iotewq.xyz^
+||ioxjce.xyz^
 ||ishoutu.net^
+||it5s.top^
 ||itbwq.xyz^
 ||itnxxa.xyz^
 ||iuliglsh.space^
@@ -40173,6 +40197,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lingke02.xyz^
 ||lingke03.top^
 ||lingke05.top^
+||lisafnil.space^
 ||liutt.online^
 ||liuxiangxiang.top^
 ||liuzhen.love^
@@ -40190,6 +40215,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||luotuoma.center^
 ||lvjoe.pw^
 ||lwfcipd.cn^
+||lwtlock.cn^
 ||lyggt.top^
 ||ma3s.top^
 ||maaijun.top^
@@ -40221,6 +40247,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mmrrk.top^
 ||mnbvbrow.xyz^
 ||mnuy56.site^
+||mnver.xyz^
 ||mnvrwq.xyz^
 ||mongsonv.uno^
 ||morlsbli.cyou^
@@ -40235,6 +40262,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mttty.top^
 ||mudcxq.cn^
 ||muliglsn.space^
+||mumnxwvn.ink^
 ||musan.love^
 ||mxlwmp.cn^
 ||mxowrwb.cn^
@@ -40250,6 +40278,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||n6579.com^
 ||ncoeqz.today^
 ||neno.ink^
+||neokbu.cn^
 ||neornad.cn^
 ||nfhtech.com^
 ||nfpplus.com^
@@ -40270,6 +40299,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ntsibo.com^
 ||nttrr.top^
 ||ntyrt.top^
+||numnxwvv.ink^
 ||nuslzkb.cn^
 ||nvqhbij.cn^
 ||nvzffl.cn^
@@ -40281,6 +40311,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ofooe.cn^
 ||ogcyshr.cn^
 ||oghdnp.cn^
+||oisafnik.space^
 ||oiuqwppcsdf.com^
 ||oizn.club^
 ||ojgtbs.cn^
@@ -40322,6 +40353,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pnirrb.cn^
 ||pnrqz.xyz^
 ||pnslejs.cn^
+||polflq.cn^
 ||pongsone.uno^
 ||porlsbll.cyou^
 ||ppcwzry.cn^
@@ -40333,10 +40365,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pvzdrx.cn^
 ||pwqtkap.cn^
 ||pxfeiws.cn^
+||pygone.top^
 ||pymby.top^
+||pyrrtep.cn^
 ||pzcrwml.cn^
 ||pznqjhh.life^
 ||qbc1.cn^
+||qbgrmsk.cn^
 ||qcyunnan.cn^
 ||qdxsodq.cn^
 ||qfgall.cn^
@@ -40350,6 +40385,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qingtian.love^
 ||qinhang.pro^
 ||qiqqh.cn^
+||qisafniy.space^
 ||qiutian.buzz^
 ||qj86.cn^
 ||qjxys.cn^
@@ -40451,10 +40487,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sy2s.top^
 ||syb.hk^
 ||sym.zone^
+||syr66.com.cn^
 ||taiheian.top^
 ||taipingyang.hk^
 ||tangxiaodou.top^
 ||tanyp.xyz^
+||taoxiehui.cn^
 ||tdtxkvj.cn^
 ||teoopx.cn^
 ||tertqm.cn^
@@ -40462,12 +40500,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tianmenshan.top^
 ||tianning.xyz^
 ||tierzf.xyz^
+||tisafnii.space^
 ||tkngckh.cn^
 ||tmrhoe2.com^
 ||tongsone.uno^
 ||topnfj.com^
 ||topnfq.com^
 ||topnfw.com^
+||trdzgpx.cn^
 ||trznrug.cn^
 ||tt14q0p2.cn^
 ||ttwwy.top^
@@ -40489,6 +40529,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||u0067.com^
 ||u0071.com^
 ||u0075.com^
+||u0078.com^
 ||u0081.com^
 ||u0083.com^
 ||u5ree6.com^
@@ -40525,11 +40566,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vflzdrv.cn^
 ||vgrovkb.cn^
 ||vhlret.cn^
+||visualtravel.info^
 ||viswcnb.cn^
 ||viuspbkmn.bar^
 ||vivachina.co^
 ||vkoehsx.cn^
 ||vkygseu.cn^
+||vliao365.com^
 ||vofiamb.cn^
 ||voihkjd.cn^
 ||vongsond.uno^
@@ -40541,6 +40584,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vuliglsf.space^
 ||vumnxwvf.ink^
 ||vvpingtai.com^
+||vwocvgr.cn^
 ||wangduoduo.pw^
 ||wangjunyan.xyz^
 ||wanyi.pw^
@@ -40551,6 +40595,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wephone.club^
 ||wfkspcs.cn^
 ||whoican.love^
+||whpfl.cn^
 ||wisafnie.space^
 ||wiuspckmn.bar^
 ||wlhcb.cn^
@@ -40568,6 +40613,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wqprtyg.cn^
 ||wqyloitd.cn^
 ||wslits.cn^
+||wsthcgl.cn^
 ||wsuxjqr.cn^
 ||wsyqkmk.cn^
 ||wtd57s7j.cn^
@@ -40651,6 +40697,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ynyyczx.cn^
 ||yoqrbof.cn^
 ||youthlaw.name^
+||yrqwnc.cn^
 ||yrrcc.top^
 ||yswphit.cn^
 ||yuanan.love^
@@ -40682,6 +40729,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ziyuanyinhang.wang^
 ||zjgjzzy.online^
 ||zkgvsoo.cn^
+||zkqfrti.cn^
 ||zlgame.top^
 ||zlreqxe.xyz^
 ||zorlsbln.cyou^
@@ -40701,24 +40749,20 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zzeblsg.cn^
 ||zzycj.com^
 ||zzyl.mobi^
-||qisafniy.space^
-||gkiyvbk.cn^
-||pyrrtep.cn^
-||666764.xyz^
-||vliao365.com^
-||hgjxp.cn^
-||whpfl.cn^
-||ct4s.top^
-||mnver.xyz^
-||bbzerk.cn^
-||oisafnik.space^
-||mumnxwvn.ink^
-||deeplearning.red^
-||gjeonh.cn^
-||gwzqbnh.cn^
-||neokbu.cn^
-||vwocvgr.cn^
-||zkqfrti.cn^
+||bisafniv.space^
+||fbwvly.cn^
+||jvpook.cn^
+||uisafnit.space^
+||euqxtuj.cn^
+||aw6s.top^
+||mnvqx.xyz^
+||666767.xyz^
+||skbao.co^
+||zlmbnh.cn^
+||uu2e.com^
+||888yh.xyz^
+||img301.com^
+||bakeryembedded.com^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
@@ -46962,6 +47006,7 @@ charlestownwyllie.oaklawnnonantum.com^
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+||qc1.cheshipin.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -47834,6 +47879,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1018
 ! Blocked by CNAME sailthru.com
+@@||link.androidauthority.com^|
 @@||stcblink.nypost.com^|
 ! https://old.reddit.com/r/Adguard/comments/wkcvpx/redirect_link_not_working_when_adguard_pro_ios_is/
 @@||link.morningbrew.com^|

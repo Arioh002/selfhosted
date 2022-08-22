@@ -5,8 +5,8 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">91438853-6bbc-4c07-9e19-6c0cc1a8f910</dc:identifier>
         <dc:title>Его не звали, но он приперся</dc:title>
         <dc:creator opf:file-as="Kadavra, Avada" opf:role="aut">Avada Kadavra</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.0.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2019-05-27T21:00:00+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-28T00:00:00+00:00</dc:date>
         <dc:description>&lt;div class="urlize-links js-public-beta-description"&gt;Далеко не всем мирам нужны Призванные Герои, даже если их и можно призвать. В самом деле-то! Всегда и везде найдутся достойные люди, которым самим пригодится слава, могущество и личный гарем.&lt;br/&gt;
  А призванный?&lt;br/&gt;
  Он тут только материал, не более...&lt;/div&gt;</dc:description>
@@ -17,7 +17,7 @@
         <meta name="calibre:author_link_map" content="{&quot;Avada Kadavra&quot;: &quot;https://ficbook.net/authors/1149804&quot;}"/>
         <meta name="calibre:series" content="Герой"/>
         <meta name="calibre:series_index" content="1"/>
-        <meta name="calibre:timestamp" content="2022-07-20T15:12:26.316202+00:00"/>
+        <meta name="calibre:timestamp" content="2022-08-22T09:27:03.553662+00:00"/>
         <meta name="calibre:title_sort" content="Его не звали, но он приперся"/>
     </metadata>
     <guide>
