@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">2f9edaf3-33a8-4cce-ad08-72c60b561f10</dc:identifier>
         <dc:title>Красное кольцо</dc:title>
         <dc:creator opf:file-as="keksman" opf:role="aut">keksman</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.0.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.3.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-07-11T21:00:00+00:00</dc:date>
         <dc:description>&lt;div class="urlize-links js-public-beta-description"&gt;Гарри Поттер покупает странное кольцо у странного человека в Лондоне&lt;/div&gt;</dc:description>
         <dc:publisher>ficbook.net</dc:publisher>
@@ -14,7 +14,7 @@
         <dc:subject>фанфик</dc:subject>
         <dc:subject>pwp</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;keksman&quot;: &quot;https://ficbook.net/authors/2285390&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-07-20T15:13:21.041644+00:00"/>
+        <meta name="calibre:timestamp" content="2022-08-22T10:04:44.383323+00:00"/>
         <meta name="calibre:title_sort" content="Красное кольцо"/>
     </metadata>
     <guide>

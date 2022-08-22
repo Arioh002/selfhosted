@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">2e316ee9-88e5-4045-8a4b-ab0357c052f0</dc:identifier>
         <dc:title>Чёрный Свет</dc:title>
         <dc:creator opf:file-as="Шэтэл-Соркен" opf:role="aut">Шэтэл-Соркен</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.0.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.3.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-12-13T21:00:00+00:00</dc:date>
         <dc:description>&lt;div class="urlize-links js-public-beta-description"&gt;Жадность до добра не доводит, говорили они. Но что поделать, если ты настолько жаден, что это становится сутью тебя самого, сутью твоей души!? Что делать, когда сама твоя суть хочет получить Всё, и не отдавать ничего!?&lt;br/&gt;
 &lt;br/&gt;
@@ -15,7 +15,7 @@
         <dc:language>rus</dc:language>
         <dc:subject>фанфик</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Шэтэл-Соркен&quot;: &quot;https://ficbook.net/authors/1711049&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-07-20T15:15:27.706247+00:00"/>
+        <meta name="calibre:timestamp" content="2022-08-22T10:06:53.392548+00:00"/>
         <meta name="calibre:title_sort" content="Чёрный Свет"/>
     </metadata>
     <guide>

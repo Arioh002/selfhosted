@@ -49,12 +49,8 @@
         false
       ],
       [
-        "authors",
-        true
-      ],
-      [
-        "title",
-        true
+        "publisher",
+        false
       ],
       [
         "timestamp",
@@ -607,6 +603,18 @@
   },
   "gui_view_history": [
     [
+      85,
+      "\u041f\u0440\u043e\u0440\u043e\u043a. Re:Terra."
+    ],
+    [
+      62,
+      "\u0411\u0440\u0443\u0442\u0430\u043b\u044c\u043d\u0430\u044f \u041f\u0430\u0434\u043c\u0435, \u0438\u043b\u0438 \u041d\u043e\u0432\u0430\u044f \u0441\u0443\u0434\u044c\u0431\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u044b"
+    ],
+    [
+      75,
+      "\u0417\u0430\u043c\u043e\u0440\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u041c\u0438\u0440"
+    ],
+    [
       38,
       "\u041a\u0430\u043b\u0435\u043a\u0430"
     ],
@@ -642,12 +650,12 @@
     "authorcase": false,
     "auto_reject_from_email": false,
     "auto_reject_seriesurlid": false,
-    "autoconvert": false,
+    "autoconvert": true,
     "autounnew": false,
-    "bgmeta": false,
+    "bgmeta": true,
     "button_instantpopup": false,
     "cal_cols_pass_in": false,
-    "calibre_gen_cover": false,
+    "calibre_gen_cover": true,
     "checkforseriesurlid": true,
     "checkforurlchange": true,
     "collision": "Update EPUB if New Chapters",
@@ -655,11 +663,11 @@
     "custom_cols": {},
     "custom_cols_newonly": {},
     "deleteotherforms": false,
-    "do_wordcount": "Yes, unless site",
+    "do_wordcount": "No",
     "download_from_email_immediately": false,
-    "errorcol": "",
+    "errorcol": "None",
     "fileform": "epub",
-    "gc_polish_cover": false,
+    "gc_polish_cover": true,
     "gc_site_settings": {},
     "gcnewonly": false,
     "gencalcover": "Yes",
@@ -671,14 +679,14 @@
     "imaptags": "",
     "imapuser": "",
     "includecomments": false,
-    "injectseries": false,
-    "keeptags": false,
+    "injectseries": true,
+    "keeptags": true,
     "last_saved_version": [
       4,
-      12,
-      4
+      15,
+      0
     ],
-    "lastcheckedcol": "",
+    "lastcheckedcol": "None",
     "lookforurlinhtml": false,
     "mark": false,
     "mark_chapter_error": true,
@@ -687,7 +695,7 @@
     "mark_success": true,
     "matchtitleauth": true,
     "personal.ini": "## This is an example of what your personal configuration might look\r\n## like.  Uncomment options by removing the '#' in front of them.\r\n\r\n[defaults]\r\n## [defaults] section applies to all formats and sites but may be\r\n## overridden at several levels.  Example:\r\n\r\n## [defaults]\r\n## titlepage_entries: category,genre, status\r\n## [www.whofic.com]\r\n## # overrides defaults.\r\n## titlepage_entries: category,genre, status,dateUpdated,rating\r\n## [epub]\r\n## # overrides defaults & site section\r\n## titlepage_entries: category,genre, status,datePublished,dateUpdated,dateCreated\r\n## [www.whofic.com:epub]\r\n## # overrides defaults, site section & format section\r\n## titlepage_entries: category,genre, status,datePublished\r\n## [overrides]\r\n## # overrides all other sections\r\n## titlepage_entries: category\r\n\r\n## Some sites also require the user to confirm they are adult for\r\n## adult content.  Uncomment by removing '#' in front of is_adult.\r\n#is_adult:true\r\n\r\n## Don't like the numbers at the start of chapter titles on some\r\n## sites?  You can use strip_chapter_numbers to strip them off.  Just\r\n## want to make them all look the same?  Strip them off, then add them\r\n## back on with add_chapter_numbers.  Don't like the way it strips\r\n## numbers or adds them back?  See chapter_title_strip_pattern and\r\n## chapter_title_add_pattern.\r\n#strip_chapter_numbers:true\r\n#add_chapter_numbers:true\r\n\r\n## Add this to genre if there's more than one category.\r\n#add_genre_when_multi_category: Crossover\r\n\r\n[epub]\r\n## include images from img tags in the body and summary of stories.\r\n## Images will be converted to jpg for size if possible.  Images work\r\n## in epub format only.  To get mobi or other format with images,\r\n## download as epub and use Calibre to convert.\r\n#include_images:true\r\n\r\n## Quality level to use when converting images to jpg. Range is 0-100,\r\n## reasonable values likely to be in the range 70-95.\r\n#jpg_quality: 95\r\n\r\n## If not set, the summary will have all html stripped for safety.\r\n## Both this and include_images must be true to get images in the\r\n## summary.\r\n#keep_summary_html:true\r\n\r\n## If set, the first image found will be made the cover image.  If\r\n## keep_summary_html is true, any images in summary will be before any\r\n## in chapters.\r\n#make_firstimage_cover:true\r\n\r\n## Resize images down to width, height, preserving aspect ratio.\r\n## Nook size, with margin.\r\n#image_max_size: 580, 725\r\n\r\n## Change image to grayscale, if graphics library allows, to save\r\n## space.\r\n#grayscale_images: false\r\n\r\n\r\n## Most common, I expect will be using this to save username/passwords\r\n## for different sites.  Here are a few examples.  See defaults.ini\r\n## for the full list.\r\n\r\n[www.twilighted.net]\r\n#username:YourPenname\r\n#password:YourPassword\r\n## default is false\r\n#collect_series: true\r\n\r\n[ficwad.com]\r\n#username:YourUsername\r\n#password:YourPassword\r\n\r\n[www.adastrafanfic.com]\r\n## Some sites do not require a login, but do require the user to\r\n## confirm they are adult for adult content.\r\n#is_adult:true\r\n\r\n[www.twcslibrary.net]\r\n#username:YourName\r\n#password:yourpassword\r\n#is_adult:true\r\n## default is false\r\n#collect_series: true\r\n\r\n[www.fimfiction.net]\r\n#is_adult:true\r\n#fail_on_password: false\r\n\r\n[www.tthfanfic.org]\r\n#is_adult:true\r\n## tth is a little unusual--it doesn't require user/pass, but the site\r\n## keeps track of which chapters you've read and won't send another\r\n## update until it thinks you're up to date.  This way, on download,\r\n## it thinks you're up to date.\r\n#username:YourName\r\n#password:yourpassword\r\n\r\n\r\n## This section will override anything in the system defaults or other\r\n## sections here.\r\n[overrides]\r\n## default varies by site.  Set true here to force all sites to\r\n## collect series.\r\n#collect_series: true\r\n",
-    "plugin_gen_cover": true,
+    "plugin_gen_cover": false,
     "read_lists": "",
     "reject_always": false,
     "reject_delete_default": true,
@@ -699,8 +707,19 @@
     "setanthologyseries": false,
     "show_est_time": false,
     "showmarked": false,
-    "smarten_punctuation": false,
-    "std_cols_newonly": {},
+    "smarten_punctuation": true,
+    "std_cols_newonly": {
+      "title": false,
+      "authors": false,
+      "publisher": false,
+      "tags": true,
+      "languages": false,
+      "pubdate": false,
+      "timestamp": false,
+      "comments": false,
+      "series": false,
+      "identifiers": false
+    },
     "suppressauthorsort": false,
     "suppresstitlesort": false,
     "titlecase": false,

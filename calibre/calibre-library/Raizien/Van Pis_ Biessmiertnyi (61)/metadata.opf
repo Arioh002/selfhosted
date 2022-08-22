@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">9e0271fc-d585-46a8-9c29-88e2de706e9d</dc:identifier>
         <dc:title>Ван Пис: Бессмертный</dc:title>
         <dc:creator opf:file-as="Райзен" opf:role="aut">Райзен</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.0.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.3.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-09-19T21:00:00+00:00</dc:date>
         <dc:description>&lt;div class="urlize-links js-public-beta-description"&gt;Вечность - есть ключ ко всему.&lt;br/&gt;
 Императоры? Короли пиратов? Лишь титулы на страницах истории. Богатство, слава и власть?  Лишь мимолётные мгновения триумфа.&lt;br/&gt;
@@ -19,7 +19,7 @@
         <dc:language>rus</dc:language>
         <dc:subject>фанфик</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Райзен&quot;: &quot;https://ficbook.net/authors/3687445&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-07-20T15:10:13.029746+00:00"/>
+        <meta name="calibre:timestamp" content="2022-08-22T10:01:25.265831+00:00"/>
         <meta name="calibre:title_sort" content="Ван Пис: Бессмертный"/>
     </metadata>
     <guide>

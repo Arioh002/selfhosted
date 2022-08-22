@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">0996839a-6e57-438b-891a-cfe856fc57e5</dc:identifier>
         <dc:title>Сволочи.</dc:title>
         <dc:creator opf:file-as="Nezloi" opf:role="aut">Nezloi</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.0.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.3.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-06-03T21:00:00+00:00</dc:date>
         <dc:description>&lt;div class="urlize-links js-public-beta-description"&gt;Решил попробовать себя в жанре РеалРпг. Что получится, война покажет.&lt;/div&gt;</dc:description>
         <dc:publisher>ficbook.net</dc:publisher>
@@ -13,7 +13,7 @@
         <dc:language>rus</dc:language>
         <dc:subject>фентези</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Nezloi&quot;: &quot;https://ficbook.net/authors/4213644&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-07-20T15:15:06.387932+00:00"/>
+        <meta name="calibre:timestamp" content="2022-08-22T10:06:31.846131+00:00"/>
         <meta name="calibre:title_sort" content="Сволочи."/>
     </metadata>
     <guide>

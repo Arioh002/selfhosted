@@ -388,3 +388,22 @@ calibre server listening on 0.0.0.0:8081
 OPDS feeds advertised via BonJour at: 172.24.0.2 port: 8081
 calibre server listening on 0.0.0.0:8081
 OPDS feeds advertised via BonJour at: 172.24.0.2 port: 8081
+calibre server listening on 0.0.0.0:8081
+OPDS feeds advertised via BonJour at: 172.25.0.4 port: 8081
+Unhandled exception in state: State: _job_done Client: 172.25.0.2:53552 Request: POST /book-update-annotations/calibre-library/79/EPUB HTTP/1.1
+Traceback (most recent call last):
+  File "calibre/srv/loop.py", line 626, in tick
+  File "calibre/srv/loop.py", line 347, in _job_done
+  File "calibre/srv/http_response.py", line 502, in job_done
+  File "polyglot/builtins.py", line 61, in reraise
+  File "calibre/srv/pool.py", line 33, in run
+  File "calibre/srv/http_response.py", line 459, in run_request_handler
+  File "calibre/srv/routes.py", line 312, in dispatch
+  File "calibre/srv/books.py", line 269, in update_annotations
+  File "calibre/db/cache.py", line 77, in call_func_with_lock
+  File "calibre/db/cache.py", line 2821, in merge_annotations_for_book
+  File "calibre/db/cache.py", line 2808, in set_annotations_for_book
+  File "calibre/db/backend.py", line 2056, in set_annotations_for_book
+  File "calibre/db/backend.py", line 315, in save_annotations_for_book
+apsw.ReadOnlyError: ReadOnlyError: attempt to write a readonly database
+

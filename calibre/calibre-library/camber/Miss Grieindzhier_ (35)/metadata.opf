@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c35d0973-76fb-4650-9236-f282473d4c04</dc:identifier>
         <dc:title>Мисс Грейнджер?</dc:title>
         <dc:creator opf:file-as="camber" opf:role="aut">camber</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.0.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.3.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-10-04T21:00:00+00:00</dc:date>
         <dc:description>&lt;div class="urlize-links js-public-beta-description"&gt;Вариация на тему попаданства в Гермиону сознания нашего современника. До Хогвартса. Подробнее в заявке, которой я старался следовать. Насколько это получилось - другой вопрос.&lt;/div&gt;</dc:description>
         <dc:publisher>ficbook.net</dc:publisher>
@@ -13,7 +13,7 @@
         <dc:language>rus</dc:language>
         <dc:subject>фанфик</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;camber&quot;: &quot;https://ficbook.net/authors/1054403&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-07-20T15:13:40.072612+00:00"/>
+        <meta name="calibre:timestamp" content="2022-08-22T10:05:04.479160+00:00"/>
         <meta name="calibre:title_sort" content="Мисс Грейнджер?"/>
     </metadata>
     <guide>
